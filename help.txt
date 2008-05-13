@@ -1,0 +1,9 @@
+﻿OpenID.org needs help translating the site to this language.
+<br /><br />
+Please send an email to support@openid.org if you are interesting in helping us translate this site!
+<br /><br />
+We will include your name in the contributers section of the site.
+<br /><br />
+Regards,
+<br />
+OpenID Support Team

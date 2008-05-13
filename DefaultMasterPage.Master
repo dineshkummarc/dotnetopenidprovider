@@ -1,0 +1,9 @@
+﻿<%@ Master Language="C#" MasterPageFile="~/BaseMaster.Master" AutoEventWireup="true" CodeBehind="DefaultMasterPage.Master.cs" Inherits="DotOrg.DefaultMasterPage" %>
+<%@ Register Assembly="DotNetOpenId" Namespace="DotNetOpenId" TagPrefix="openid" %>
+
+<asp:Content ID="Content1" ContentPlaceHolderID="ContentPlaceHolder2" Runat="Server">
+    <openid:XrdsPublisher ID="ucXrdsPublisher" runat="server" XrdsUrl="~/op_xrds.aspx" />
+</asp:Content>
+<asp:Content ID="Content2" ContentPlaceHolderID="ContentPlaceHolder1" Runat="Server">
+    <asp:ContentPlaceHolder id="ContentPlaceHolder1" runat="server"></asp:ContentPlaceHolder>
+</asp:Content>
