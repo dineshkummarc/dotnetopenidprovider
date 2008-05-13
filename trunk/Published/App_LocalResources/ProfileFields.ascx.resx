@@ -1,0 +1,2952 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<root>
+  <!-- 
+    Microsoft ResX Schema 
+    
+    Version 2.0
+    
+    The primary goals of this format is to allow a simple XML format 
+    that is mostly human readable. The generation and parsing of the 
+    various data types are done through the TypeConverter classes 
+    associated with the data types.
+    
+    Example:
+    
+    ... ado.net/XML headers & schema ...
+    <resheader name="resmimetype">text/microsoft-resx</resheader>
+    <resheader name="version">2.0</resheader>
+    <resheader name="reader">System.Resources.ResXResourceReader, System.Windows.Forms, ...</resheader>
+    <resheader name="writer">System.Resources.ResXResourceWriter, System.Windows.Forms, ...</resheader>
+    <data name="Name1"><value>this is my long string</value><comment>this is a comment</comment></data>
+    <data name="Color1" type="System.Drawing.Color, System.Drawing">Blue</data>
+    <data name="Bitmap1" mimetype="application/x-microsoft.net.object.binary.base64">
+        <value>[base64 mime encoded serialized .NET Framework object]</value>
+    </data>
+    <data name="Icon1" type="System.Drawing.Icon, System.Drawing" mimetype="application/x-microsoft.net.object.bytearray.base64">
+        <value>[base64 mime encoded string representing a byte array form of the .NET Framework object]</value>
+        <comment>This is a comment</comment>
+    </data>
+                
+    There are any number of "resheader" rows that contain simple 
+    name/value pairs.
+    
+    Each data row contains a name, and value. The row also contains a 
+    type or mimetype. Type corresponds to a .NET class that support 
+    text/value conversion through the TypeConverter architecture. 
+    Classes that don't support this are serialized and stored with the 
+    mimetype set.
+    
+    The mimetype is used for serialized objects, and tells the 
+    ResXResourceReader how to depersist the object. This is currently not 
+    extensible. For a given mimetype the value must be set accordingly:
+    
+    Note - application/x-microsoft.net.object.binary.base64 is the format 
+    that the ResXResourceWriter will generate, however the reader can 
+    read any of the formats listed below.
+    
+    mimetype: application/x-microsoft.net.object.binary.base64
+    value   : The object must be serialized with 
+            : System.Runtime.Serialization.Formatters.Binary.BinaryFormatter
+            : and then encoded with base64 encoding.
+    
+    mimetype: application/x-microsoft.net.object.soap.base64
+    value   : The object must be serialized with 
+            : System.Runtime.Serialization.Formatters.Soap.SoapFormatter
+            : and then encoded with base64 encoding.
+
+    mimetype: application/x-microsoft.net.object.bytearray.base64
+    value   : The object must be serialized into a byte array 
+            : using a System.ComponentModel.TypeConverter
+            : and then encoded with base64 encoding.
+    -->
+  <xsd:schema id="root" xmlns="" xmlns:xsd="http://www.w3.org/2001/XMLSchema" xmlns:msdata="urn:schemas-microsoft-com:xml-msdata">
+    <xsd:import namespace="http://www.w3.org/XML/1998/namespace" />
+    <xsd:element name="root" msdata:IsDataSet="true">
+      <xsd:complexType>
+        <xsd:choice maxOccurs="unbounded">
+          <xsd:element name="metadata">
+            <xsd:complexType>
+              <xsd:sequence>
+                <xsd:element name="value" type="xsd:string" minOccurs="0" />
+              </xsd:sequence>
+              <xsd:attribute name="name" use="required" type="xsd:string" />
+              <xsd:attribute name="type" type="xsd:string" />
+              <xsd:attribute name="mimetype" type="xsd:string" />
+              <xsd:attribute ref="xml:space" />
+            </xsd:complexType>
+          </xsd:element>
+          <xsd:element name="assembly">
+            <xsd:complexType>
+              <xsd:attribute name="alias" type="xsd:string" />
+              <xsd:attribute name="name" type="xsd:string" />
+            </xsd:complexType>
+          </xsd:element>
+          <xsd:element name="data">
+            <xsd:complexType>
+              <xsd:sequence>
+                <xsd:element name="value" type="xsd:string" minOccurs="0" msdata:Ordinal="1" />
+                <xsd:element name="comment" type="xsd:string" minOccurs="0" msdata:Ordinal="2" />
+              </xsd:sequence>
+              <xsd:attribute name="name" type="xsd:string" use="required" msdata:Ordinal="1" />
+              <xsd:attribute name="type" type="xsd:string" msdata:Ordinal="3" />
+              <xsd:attribute name="mimetype" type="xsd:string" msdata:Ordinal="4" />
+              <xsd:attribute ref="xml:space" />
+            </xsd:complexType>
+          </xsd:element>
+          <xsd:element name="resheader">
+            <xsd:complexType>
+              <xsd:sequence>
+                <xsd:element name="value" type="xsd:string" minOccurs="0" msdata:Ordinal="1" />
+              </xsd:sequence>
+              <xsd:attribute name="name" type="xsd:string" use="required" />
+            </xsd:complexType>
+          </xsd:element>
+        </xsd:choice>
+      </xsd:complexType>
+    </xsd:element>
+  </xsd:schema>
+  <resheader name="resmimetype">
+    <value>text/microsoft-resx</value>
+  </resheader>
+  <resheader name="version">
+    <value>2.0</value>
+  </resheader>
+  <resheader name="reader">
+    <value>System.Resources.ResXResourceReader, System.Windows.Forms, Version=2.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089</value>
+  </resheader>
+  <resheader name="writer">
+    <value>System.Resources.ResXResourceWriter, System.Windows.Forms, Version=2.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089</value>
+  </resheader>
+  <data name="1" xml:space="preserve">
+    <value>1</value>
+  </data>
+  <data name="10" xml:space="preserve">
+    <value>10</value>
+  </data>
+  <data name="11" xml:space="preserve">
+    <value>11</value>
+  </data>
+  <data name="12" xml:space="preserve">
+    <value>12</value>
+  </data>
+  <data name="13" xml:space="preserve">
+    <value>13</value>
+  </data>
+  <data name="14" xml:space="preserve">
+    <value>14</value>
+  </data>
+  <data name="15" xml:space="preserve">
+    <value>15</value>
+  </data>
+  <data name="16" xml:space="preserve">
+    <value>16</value>
+  </data>
+  <data name="17" xml:space="preserve">
+    <value>17</value>
+  </data>
+  <data name="18" xml:space="preserve">
+    <value>18</value>
+  </data>
+  <data name="19" xml:space="preserve">
+    <value>19</value>
+  </data>
+  <data name="2" xml:space="preserve">
+    <value>2</value>
+  </data>
+  <data name="20" xml:space="preserve">
+    <value>20</value>
+  </data>
+  <data name="21" xml:space="preserve">
+    <value>21</value>
+  </data>
+  <data name="22" xml:space="preserve">
+    <value>22</value>
+  </data>
+  <data name="23" xml:space="preserve">
+    <value>23</value>
+  </data>
+  <data name="24" xml:space="preserve">
+    <value>24</value>
+  </data>
+  <data name="25" xml:space="preserve">
+    <value>25</value>
+  </data>
+  <data name="26" xml:space="preserve">
+    <value>26</value>
+  </data>
+  <data name="27" xml:space="preserve">
+    <value>27</value>
+  </data>
+  <data name="28" xml:space="preserve">
+    <value>28</value>
+  </data>
+  <data name="29" xml:space="preserve">
+    <value>29</value>
+  </data>
+  <data name="3" xml:space="preserve">
+    <value>3</value>
+  </data>
+  <data name="30" xml:space="preserve">
+    <value>30</value>
+  </data>
+  <data name="31" xml:space="preserve">
+    <value>31</value>
+  </data>
+  <data name="4" xml:space="preserve">
+    <value>4</value>
+  </data>
+  <data name="5" xml:space="preserve">
+    <value>5</value>
+  </data>
+  <data name="6" xml:space="preserve">
+    <value>6</value>
+  </data>
+  <data name="7" xml:space="preserve">
+    <value>7</value>
+  </data>
+  <data name="8" xml:space="preserve">
+    <value>8</value>
+  </data>
+  <data name="9" xml:space="preserve">
+    <value>9</value>
+  </data>
+  <data name="AD" xml:space="preserve">
+    <value>ANDORRA</value>
+  </data>
+  <data name="AE" xml:space="preserve">
+    <value>UNITED ARAB EMIRATES</value>
+  </data>
+  <data name="AF" xml:space="preserve">
+    <value>AFGHANISTAN</value>
+  </data>
+  <data name="Africa/Abidjan" xml:space="preserve">
+    <value>Africa/Abidjan</value>
+  </data>
+  <data name="Africa/Accra" xml:space="preserve">
+    <value>Africa/Accra</value>
+  </data>
+  <data name="Africa/Addis_Ababa" xml:space="preserve">
+    <value>Africa/Addis_Ababa</value>
+  </data>
+  <data name="Africa/Algiers" xml:space="preserve">
+    <value>Africa/Algiers</value>
+  </data>
+  <data name="Africa/Asmera" xml:space="preserve">
+    <value>Africa/Asmera</value>
+  </data>
+  <data name="Africa/Bamako" xml:space="preserve">
+    <value>Africa/Bamako</value>
+  </data>
+  <data name="Africa/Bangui" xml:space="preserve">
+    <value>Africa/Bangui</value>
+  </data>
+  <data name="Africa/Banjul" xml:space="preserve">
+    <value>Africa/Banjul</value>
+  </data>
+  <data name="Africa/Bissau" xml:space="preserve">
+    <value>Africa/Bissau</value>
+  </data>
+  <data name="Africa/Blantyre" xml:space="preserve">
+    <value>Africa/Blantyre</value>
+  </data>
+  <data name="Africa/Brazzaville" xml:space="preserve">
+    <value>Africa/Brazzaville</value>
+  </data>
+  <data name="Africa/Bujumbura" xml:space="preserve">
+    <value>Africa/Bujumbura</value>
+  </data>
+  <data name="Africa/Cairo" xml:space="preserve">
+    <value>Africa/Cairo</value>
+  </data>
+  <data name="Africa/Casablanca" xml:space="preserve">
+    <value>Africa/Casablanca</value>
+  </data>
+  <data name="Africa/Ceuta" xml:space="preserve">
+    <value>Africa/Ceuta</value>
+  </data>
+  <data name="Africa/Conakry" xml:space="preserve">
+    <value>Africa/Conakry</value>
+  </data>
+  <data name="Africa/Dakar" xml:space="preserve">
+    <value>Africa/Dakar</value>
+  </data>
+  <data name="Africa/Dar_es_Salaam" xml:space="preserve">
+    <value>Africa/Dar_es_Salaam</value>
+  </data>
+  <data name="Africa/Djibouti" xml:space="preserve">
+    <value>Africa/Djibouti</value>
+  </data>
+  <data name="Africa/Douala" xml:space="preserve">
+    <value>Africa/Douala</value>
+  </data>
+  <data name="Africa/El_Aaiun" xml:space="preserve">
+    <value>Africa/El_Aaiun</value>
+  </data>
+  <data name="Africa/Freetown" xml:space="preserve">
+    <value>Africa/Freetown</value>
+  </data>
+  <data name="Africa/Gaborone" xml:space="preserve">
+    <value>Africa/Gaborone</value>
+  </data>
+  <data name="Africa/Harare" xml:space="preserve">
+    <value>Africa/Harare</value>
+  </data>
+  <data name="Africa/Johannesburg" xml:space="preserve">
+    <value>Africa/Johannesburg</value>
+  </data>
+  <data name="Africa/Kampala" xml:space="preserve">
+    <value>Africa/Kampala</value>
+  </data>
+  <data name="Africa/Khartoum" xml:space="preserve">
+    <value>Africa/Khartoum</value>
+  </data>
+  <data name="Africa/Kigali" xml:space="preserve">
+    <value>Africa/Kigali</value>
+  </data>
+  <data name="Africa/Kinshasa" xml:space="preserve">
+    <value>Africa/Kinshasa</value>
+  </data>
+  <data name="Africa/Lagos" xml:space="preserve">
+    <value>Africa/Lagos</value>
+  </data>
+  <data name="Africa/Libreville" xml:space="preserve">
+    <value>Africa/Libreville</value>
+  </data>
+  <data name="Africa/Lome" xml:space="preserve">
+    <value>Africa/Lome</value>
+  </data>
+  <data name="Africa/Luanda" xml:space="preserve">
+    <value>Africa/Luanda</value>
+  </data>
+  <data name="Africa/Lubumbashi" xml:space="preserve">
+    <value>Africa/Lubumbashi</value>
+  </data>
+  <data name="Africa/Lusaka" xml:space="preserve">
+    <value>Africa/Lusaka</value>
+  </data>
+  <data name="Africa/Malabo" xml:space="preserve">
+    <value>Africa/Malabo</value>
+  </data>
+  <data name="Africa/Maputo" xml:space="preserve">
+    <value>Africa/Maputo</value>
+  </data>
+  <data name="Africa/Maseru" xml:space="preserve">
+    <value>Africa/Maseru</value>
+  </data>
+  <data name="Africa/Mbabane" xml:space="preserve">
+    <value>Africa/Mbabane</value>
+  </data>
+  <data name="Africa/Mogadishu" xml:space="preserve">
+    <value>Africa/Mogadishu</value>
+  </data>
+  <data name="Africa/Monrovia" xml:space="preserve">
+    <value>Africa/Monrovia</value>
+  </data>
+  <data name="Africa/Nairobi" xml:space="preserve">
+    <value>Africa/Nairobi</value>
+  </data>
+  <data name="Africa/Ndjamena" xml:space="preserve">
+    <value>Africa/Ndjamena</value>
+  </data>
+  <data name="Africa/Niamey" xml:space="preserve">
+    <value>Africa/Niamey</value>
+  </data>
+  <data name="Africa/Nouakchott" xml:space="preserve">
+    <value>Africa/Nouakchott</value>
+  </data>
+  <data name="Africa/Ouagadougou" xml:space="preserve">
+    <value>Africa/Ouagadougou</value>
+  </data>
+  <data name="Africa/Porto" xml:space="preserve">
+    <value>Africa/Porto</value>
+  </data>
+  <data name="Africa/Sao_Tome" xml:space="preserve">
+    <value>Africa/Sao_Tome</value>
+  </data>
+  <data name="Africa/Tripoli" xml:space="preserve">
+    <value>Africa/Tripoli</value>
+  </data>
+  <data name="Africa/Tunis" xml:space="preserve">
+    <value>Africa/Tunis</value>
+  </data>
+  <data name="Africa/Windhoek" xml:space="preserve">
+    <value>Africa/Windhoek</value>
+  </data>
+  <data name="AG" xml:space="preserve">
+    <value>ANTIGUA AND BARBUDA</value>
+  </data>
+  <data name="AI" xml:space="preserve">
+    <value>ANGUILLA</value>
+  </data>
+  <data name="AL" xml:space="preserve">
+    <value>ALBANIA</value>
+  </data>
+  <data name="AM" xml:space="preserve">
+    <value>ARMENIA</value>
+  </data>
+  <data name="America/Adak" xml:space="preserve">
+    <value>America/Adak</value>
+  </data>
+  <data name="America/Anchorage" xml:space="preserve">
+    <value>America/Anchorage</value>
+  </data>
+  <data name="America/Anguilla" xml:space="preserve">
+    <value>America/Anguilla</value>
+  </data>
+  <data name="America/Antigua" xml:space="preserve">
+    <value>America/Antigua</value>
+  </data>
+  <data name="America/Araguaina" xml:space="preserve">
+    <value>America/Araguaina</value>
+  </data>
+  <data name="America/Argentina/Buenos_Aires" xml:space="preserve">
+    <value>America/Argentina/Buenos_Aires</value>
+  </data>
+  <data name="America/Argentina/Catamarca" xml:space="preserve">
+    <value>America/Argentina/Catamarca</value>
+  </data>
+  <data name="America/Argentina/Cordoba" xml:space="preserve">
+    <value>America/Argentina/Cordoba</value>
+  </data>
+  <data name="America/Argentina/Jujuy" xml:space="preserve">
+    <value>America/Argentina/Jujuy</value>
+  </data>
+  <data name="America/Argentina/La_Rioja" xml:space="preserve">
+    <value>America/Argentina/La_Rioja</value>
+  </data>
+  <data name="America/Argentina/Mendoza" xml:space="preserve">
+    <value>America/Argentina/Mendoza</value>
+  </data>
+  <data name="America/Argentina/Rio_Gallegos" xml:space="preserve">
+    <value>America/Argentina/Rio_Gallegos</value>
+  </data>
+  <data name="America/Argentina/San_Juan" xml:space="preserve">
+    <value>America/Argentina/San_Juan</value>
+  </data>
+  <data name="America/Argentina/Tucuman" xml:space="preserve">
+    <value>America/Argentina/Tucuman</value>
+  </data>
+  <data name="America/Argentina/Ushuaia" xml:space="preserve">
+    <value>America/Argentina/Ushuaia</value>
+  </data>
+  <data name="America/Aruba" xml:space="preserve">
+    <value>America/Aruba</value>
+  </data>
+  <data name="America/Asuncion" xml:space="preserve">
+    <value>America/Asuncion</value>
+  </data>
+  <data name="America/Bahia" xml:space="preserve">
+    <value>America/Bahia</value>
+  </data>
+  <data name="America/Barbados" xml:space="preserve">
+    <value>America/Barbados</value>
+  </data>
+  <data name="America/Belem" xml:space="preserve">
+    <value>America/Belem</value>
+  </data>
+  <data name="America/Belize" xml:space="preserve">
+    <value>America/Belize</value>
+  </data>
+  <data name="America/Boa_Vista" xml:space="preserve">
+    <value>America/Boa_Vista</value>
+  </data>
+  <data name="America/Bogota" xml:space="preserve">
+    <value>America/Bogota</value>
+  </data>
+  <data name="America/Boise" xml:space="preserve">
+    <value>America/Boise</value>
+  </data>
+  <data name="America/Cambridge_Bay" xml:space="preserve">
+    <value>America/Cambridge_Bay</value>
+  </data>
+  <data name="America/Campo_Grande" xml:space="preserve">
+    <value>America/Campo_Grande</value>
+  </data>
+  <data name="America/Cancun" xml:space="preserve">
+    <value>America/Cancun</value>
+  </data>
+  <data name="America/Caracas" xml:space="preserve">
+    <value>America/Caracas</value>
+  </data>
+  <data name="America/Cayenne" xml:space="preserve">
+    <value>America/Cayenne</value>
+  </data>
+  <data name="America/Cayman" xml:space="preserve">
+    <value>America/Cayman</value>
+  </data>
+  <data name="America/Chicago" xml:space="preserve">
+    <value>America/Chicago</value>
+  </data>
+  <data name="America/Chihuahua" xml:space="preserve">
+    <value>America/Chihuahua</value>
+  </data>
+  <data name="America/Coral_Harbour" xml:space="preserve">
+    <value>America/Coral_Harbour</value>
+  </data>
+  <data name="America/Costa_Rica" xml:space="preserve">
+    <value>America/Costa_Rica</value>
+  </data>
+  <data name="America/Cuiaba" xml:space="preserve">
+    <value>America/Cuiaba</value>
+  </data>
+  <data name="America/Curacao" xml:space="preserve">
+    <value>America/Curacao</value>
+  </data>
+  <data name="America/Danmarkshavn" xml:space="preserve">
+    <value>America/Danmarkshavn</value>
+  </data>
+  <data name="America/Dawson" xml:space="preserve">
+    <value>America/Dawson</value>
+  </data>
+  <data name="America/Dawson_Creek" xml:space="preserve">
+    <value>America/Dawson_Creek</value>
+  </data>
+  <data name="America/Denver" xml:space="preserve">
+    <value>America/Denver</value>
+  </data>
+  <data name="America/Detroit" xml:space="preserve">
+    <value>America/Detroit</value>
+  </data>
+  <data name="America/Dominica" xml:space="preserve">
+    <value>America/Dominica</value>
+  </data>
+  <data name="America/Edmonton" xml:space="preserve">
+    <value>America/Edmonton</value>
+  </data>
+  <data name="America/Eirunepe" xml:space="preserve">
+    <value>America/Eirunepe</value>
+  </data>
+  <data name="America/El_Salvador" xml:space="preserve">
+    <value>America/El_Salvador</value>
+  </data>
+  <data name="America/Fortaleza" xml:space="preserve">
+    <value>America/Fortaleza</value>
+  </data>
+  <data name="America/Glace_Bay" xml:space="preserve">
+    <value>America/Glace_Bay</value>
+  </data>
+  <data name="America/Godthab" xml:space="preserve">
+    <value>America/Godthab</value>
+  </data>
+  <data name="America/Goose_Bay" xml:space="preserve">
+    <value>America/Goose_Bay</value>
+  </data>
+  <data name="America/Grand_Turk" xml:space="preserve">
+    <value>America/Grand_Turk</value>
+  </data>
+  <data name="America/Grenada" xml:space="preserve">
+    <value>America/Grenada</value>
+  </data>
+  <data name="America/Guadeloupe" xml:space="preserve">
+    <value>America/Guadeloupe</value>
+  </data>
+  <data name="America/Guatemala" xml:space="preserve">
+    <value>America/Guatemala</value>
+  </data>
+  <data name="America/Guayaquil" xml:space="preserve">
+    <value>America/Guayaquil</value>
+  </data>
+  <data name="America/Guyana" xml:space="preserve">
+    <value>America/Guyana</value>
+  </data>
+  <data name="America/Halifax" xml:space="preserve">
+    <value>America/Halifax</value>
+  </data>
+  <data name="America/Havana" xml:space="preserve">
+    <value>America/Havana</value>
+  </data>
+  <data name="America/Hermosillo" xml:space="preserve">
+    <value>America/Hermosillo</value>
+  </data>
+  <data name="America/Indiana/Indianapolis" xml:space="preserve">
+    <value>America/Indiana/Indianapolis</value>
+  </data>
+  <data name="America/Indiana/Knox" xml:space="preserve">
+    <value>America/Indiana/Knox</value>
+  </data>
+  <data name="America/Indiana/Marengo" xml:space="preserve">
+    <value>America/Indiana/Marengo</value>
+  </data>
+  <data name="America/Indiana/Petersburg" xml:space="preserve">
+    <value>America/Indiana/Petersburg</value>
+  </data>
+  <data name="America/Indiana/Vevay" xml:space="preserve">
+    <value>America/Indiana/Vevay</value>
+  </data>
+  <data name="America/Indiana/Vincennes" xml:space="preserve">
+    <value>America/Indiana/Vincennes</value>
+  </data>
+  <data name="America/Inuvik" xml:space="preserve">
+    <value>America/Inuvik</value>
+  </data>
+  <data name="America/Iqaluit" xml:space="preserve">
+    <value>America/Iqaluit</value>
+  </data>
+  <data name="America/Jamaica" xml:space="preserve">
+    <value>America/Jamaica</value>
+  </data>
+  <data name="America/Juneau" xml:space="preserve">
+    <value>America/Juneau</value>
+  </data>
+  <data name="America/Kentucky/Louisville" xml:space="preserve">
+    <value>America/Kentucky/Louisville</value>
+  </data>
+  <data name="America/Kentucky/Monticello" xml:space="preserve">
+    <value>America/Kentucky/Monticello</value>
+  </data>
+  <data name="America/La_Paz" xml:space="preserve">
+    <value>America/La_Paz</value>
+  </data>
+  <data name="America/Lima" xml:space="preserve">
+    <value>America/Lima</value>
+  </data>
+  <data name="America/Los_Angeles" xml:space="preserve">
+    <value>America/Los_Angeles</value>
+  </data>
+  <data name="America/Maceio" xml:space="preserve">
+    <value>America/Maceio</value>
+  </data>
+  <data name="America/Managua" xml:space="preserve">
+    <value>America/Managua</value>
+  </data>
+  <data name="America/Manaus" xml:space="preserve">
+    <value>America/Manaus</value>
+  </data>
+  <data name="America/Martinique" xml:space="preserve">
+    <value>America/Martinique</value>
+  </data>
+  <data name="America/Mazatlan" xml:space="preserve">
+    <value>America/Mazatlan</value>
+  </data>
+  <data name="America/Menominee" xml:space="preserve">
+    <value>America/Menominee</value>
+  </data>
+  <data name="America/Merida" xml:space="preserve">
+    <value>America/Merida</value>
+  </data>
+  <data name="America/Mexico_City" xml:space="preserve">
+    <value>America/Mexico_City</value>
+  </data>
+  <data name="America/Miquelon" xml:space="preserve">
+    <value>America/Miquelon</value>
+  </data>
+  <data name="America/Moncton" xml:space="preserve">
+    <value>America/Moncton</value>
+  </data>
+  <data name="America/Monterrey" xml:space="preserve">
+    <value>America/Monterrey</value>
+  </data>
+  <data name="America/Montevideo" xml:space="preserve">
+    <value>America/Montevideo</value>
+  </data>
+  <data name="America/Montreal" xml:space="preserve">
+    <value>America/Montreal</value>
+  </data>
+  <data name="America/Montserrat" xml:space="preserve">
+    <value>America/Montserrat</value>
+  </data>
+  <data name="America/Nassau" xml:space="preserve">
+    <value>America/Nassau</value>
+  </data>
+  <data name="America/New_York" xml:space="preserve">
+    <value>America/New_York</value>
+  </data>
+  <data name="America/Nipigon" xml:space="preserve">
+    <value>America/Nipigon</value>
+  </data>
+  <data name="America/Nome" xml:space="preserve">
+    <value>America/Nome</value>
+  </data>
+  <data name="America/Noronha" xml:space="preserve">
+    <value>America/Noronha</value>
+  </data>
+  <data name="America/North_Dakota/Center" xml:space="preserve">
+    <value>America/North_Dakota/Center</value>
+  </data>
+  <data name="America/Panama" xml:space="preserve">
+    <value>America/Panama</value>
+  </data>
+  <data name="America/Pangnirtung" xml:space="preserve">
+    <value>America/Pangnirtung</value>
+  </data>
+  <data name="America/Paramaribo" xml:space="preserve">
+    <value>America/Paramaribo</value>
+  </data>
+  <data name="America/Phoenix" xml:space="preserve">
+    <value>America/Phoenix</value>
+  </data>
+  <data name="America/Port" xml:space="preserve">
+    <value>America/Port</value>
+  </data>
+  <data name="America/Porto_Velho" xml:space="preserve">
+    <value>America/Porto_Velho</value>
+  </data>
+  <data name="America/Port_of_Spain" xml:space="preserve">
+    <value>America/Port_of_Spain</value>
+  </data>
+  <data name="America/Puerto_Rico" xml:space="preserve">
+    <value>America/Puerto_Rico</value>
+  </data>
+  <data name="America/Rainy_River" xml:space="preserve">
+    <value>America/Rainy_River</value>
+  </data>
+  <data name="America/Rankin_Inlet" xml:space="preserve">
+    <value>America/Rankin_Inlet</value>
+  </data>
+  <data name="America/Recife" xml:space="preserve">
+    <value>America/Recife</value>
+  </data>
+  <data name="America/Regina" xml:space="preserve">
+    <value>America/Regina</value>
+  </data>
+  <data name="America/Rio_Branco" xml:space="preserve">
+    <value>America/Rio_Branco</value>
+  </data>
+  <data name="America/Santiago" xml:space="preserve">
+    <value>America/Santiago</value>
+  </data>
+  <data name="America/Santo_Domingo" xml:space="preserve">
+    <value>America/Santo_Domingo</value>
+  </data>
+  <data name="America/Sao_Paulo" xml:space="preserve">
+    <value>America/Sao_Paulo</value>
+  </data>
+  <data name="America/Scoresbysund" xml:space="preserve">
+    <value>America/Scoresbysund</value>
+  </data>
+  <data name="America/Shiprock" xml:space="preserve">
+    <value>America/Shiprock</value>
+  </data>
+  <data name="America/St_Johns" xml:space="preserve">
+    <value>America/St_Johns</value>
+  </data>
+  <data name="America/St_Kitts" xml:space="preserve">
+    <value>America/St_Kitts</value>
+  </data>
+  <data name="America/St_Lucia" xml:space="preserve">
+    <value>America/St_Lucia</value>
+  </data>
+  <data name="America/St_Thomas" xml:space="preserve">
+    <value>America/St_Thomas</value>
+  </data>
+  <data name="America/St_Vincent" xml:space="preserve">
+    <value>America/St_Vincent</value>
+  </data>
+  <data name="America/Swift_Current" xml:space="preserve">
+    <value>America/Swift_Current</value>
+  </data>
+  <data name="America/Tegucigalpa" xml:space="preserve">
+    <value>America/Tegucigalpa</value>
+  </data>
+  <data name="America/Thule" xml:space="preserve">
+    <value>America/Thule</value>
+  </data>
+  <data name="America/Thunder_Bay" xml:space="preserve">
+    <value>America/Thunder_Bay</value>
+  </data>
+  <data name="America/Tijuana" xml:space="preserve">
+    <value>America/Tijuana</value>
+  </data>
+  <data name="America/Toronto" xml:space="preserve">
+    <value>America/Toronto</value>
+  </data>
+  <data name="America/Tortola" xml:space="preserve">
+    <value>America/Tortola</value>
+  </data>
+  <data name="America/Vancouver" xml:space="preserve">
+    <value>America/Vancouver</value>
+  </data>
+  <data name="America/Whitehorse" xml:space="preserve">
+    <value>America/Whitehorse</value>
+  </data>
+  <data name="America/Winnipeg" xml:space="preserve">
+    <value>America/Winnipeg</value>
+  </data>
+  <data name="America/Yakutat" xml:space="preserve">
+    <value>America/Yakutat</value>
+  </data>
+  <data name="America/Yellowknife" xml:space="preserve">
+    <value>America/Yellowknife</value>
+  </data>
+  <data name="AN" xml:space="preserve">
+    <value>NETHERLANDS ANTILLES</value>
+  </data>
+  <data name="Antarctica/Casey" xml:space="preserve">
+    <value>Antarctica/Casey</value>
+  </data>
+  <data name="Antarctica/Davis" xml:space="preserve">
+    <value>Antarctica/Davis</value>
+  </data>
+  <data name="Antarctica/DumontDUrville" xml:space="preserve">
+    <value>Antarctica/DumontDUrville</value>
+  </data>
+  <data name="Antarctica/Mawson" xml:space="preserve">
+    <value>Antarctica/Mawson</value>
+  </data>
+  <data name="Antarctica/McMurdo" xml:space="preserve">
+    <value>Antarctica/McMurdo</value>
+  </data>
+  <data name="Antarctica/Palmer" xml:space="preserve">
+    <value>Antarctica/Palmer</value>
+  </data>
+  <data name="Antarctica/Rothera" xml:space="preserve">
+    <value>Antarctica/Rothera</value>
+  </data>
+  <data name="Antarctica/South_Pole" xml:space="preserve">
+    <value>Antarctica/South_Pole</value>
+  </data>
+  <data name="Antarctica/Syowa" xml:space="preserve">
+    <value>Antarctica/Syowa</value>
+  </data>
+  <data name="Antarctica/Vostok" xml:space="preserve">
+    <value>Antarctica/Vostok</value>
+  </data>
+  <data name="AO" xml:space="preserve">
+    <value>ANGOLA</value>
+  </data>
+  <data name="AQ" xml:space="preserve">
+    <value>ANTARCTICA</value>
+  </data>
+  <data name="AR" xml:space="preserve">
+    <value>ARGENTINA</value>
+  </data>
+  <data name="Arctic/Longyearbyen" xml:space="preserve">
+    <value>Arctic/Longyearbyen</value>
+  </data>
+  <data name="AS" xml:space="preserve">
+    <value>AMERICAN SAMOA</value>
+  </data>
+  <data name="Asia/Aden" xml:space="preserve">
+    <value>Asia/Aden</value>
+  </data>
+  <data name="Asia/Almaty" xml:space="preserve">
+    <value>Asia/Almaty</value>
+  </data>
+  <data name="Asia/Amman" xml:space="preserve">
+    <value>Asia/Amman</value>
+  </data>
+  <data name="Asia/Anadyr" xml:space="preserve">
+    <value>Asia/Anadyr</value>
+  </data>
+  <data name="Asia/Aqtau" xml:space="preserve">
+    <value>Asia/Aqtau</value>
+  </data>
+  <data name="Asia/Aqtobe" xml:space="preserve">
+    <value>Asia/Aqtobe</value>
+  </data>
+  <data name="Asia/Ashgabat" xml:space="preserve">
+    <value>Asia/Ashgabat</value>
+  </data>
+  <data name="Asia/Baghdad" xml:space="preserve">
+    <value>Asia/Baghdad</value>
+  </data>
+  <data name="Asia/Bahrain" xml:space="preserve">
+    <value>Asia/Bahrain</value>
+  </data>
+  <data name="Asia/Baku" xml:space="preserve">
+    <value>Asia/Baku</value>
+  </data>
+  <data name="Asia/Bangkok" xml:space="preserve">
+    <value>Asia/Bangkok</value>
+  </data>
+  <data name="Asia/Beirut" xml:space="preserve">
+    <value>Asia/Beirut</value>
+  </data>
+  <data name="Asia/Bishkek" xml:space="preserve">
+    <value>Asia/Bishkek</value>
+  </data>
+  <data name="Asia/Brunei" xml:space="preserve">
+    <value>Asia/Brunei</value>
+  </data>
+  <data name="Asia/Calcutta" xml:space="preserve">
+    <value>Asia/Calcutta</value>
+  </data>
+  <data name="Asia/Choibalsan" xml:space="preserve">
+    <value>Asia/Choibalsan</value>
+  </data>
+  <data name="Asia/Chongqing" xml:space="preserve">
+    <value>Asia/Chongqing</value>
+  </data>
+  <data name="Asia/Colombo" xml:space="preserve">
+    <value>Asia/Colombo</value>
+  </data>
+  <data name="Asia/Damascus" xml:space="preserve">
+    <value>Asia/Damascus</value>
+  </data>
+  <data name="Asia/Dhaka" xml:space="preserve">
+    <value>Asia/Dhaka</value>
+  </data>
+  <data name="Asia/Dili" xml:space="preserve">
+    <value>Asia/Dili</value>
+  </data>
+  <data name="Asia/Dubai" xml:space="preserve">
+    <value>Asia/Dubai</value>
+  </data>
+  <data name="Asia/Dushanbe" xml:space="preserve">
+    <value>Asia/Dushanbe</value>
+  </data>
+  <data name="Asia/Gaza" xml:space="preserve">
+    <value>Asia/Gaza</value>
+  </data>
+  <data name="Asia/Harbin" xml:space="preserve">
+    <value>Asia/Harbin</value>
+  </data>
+  <data name="Asia/Hong_Kong" xml:space="preserve">
+    <value>Asia/Hong_Kong</value>
+  </data>
+  <data name="Asia/Hovd" xml:space="preserve">
+    <value>Asia/Hovd</value>
+  </data>
+  <data name="Asia/Irkutsk" xml:space="preserve">
+    <value>Asia/Irkutsk</value>
+  </data>
+  <data name="Asia/Jakarta" xml:space="preserve">
+    <value>Asia/Jakarta</value>
+  </data>
+  <data name="Asia/Jayapura" xml:space="preserve">
+    <value>Asia/Jayapura</value>
+  </data>
+  <data name="Asia/Jerusalem" xml:space="preserve">
+    <value>Asia/Jerusalem</value>
+  </data>
+  <data name="Asia/Kabul" xml:space="preserve">
+    <value>Asia/Kabul</value>
+  </data>
+  <data name="Asia/Kamchatka" xml:space="preserve">
+    <value>Asia/Kamchatka</value>
+  </data>
+  <data name="Asia/Karachi" xml:space="preserve">
+    <value>Asia/Karachi</value>
+  </data>
+  <data name="Asia/Kashgar" xml:space="preserve">
+    <value>Asia/Kashgar</value>
+  </data>
+  <data name="Asia/Katmandu" xml:space="preserve">
+    <value>Asia/Katmandu</value>
+  </data>
+  <data name="Asia/Krasnoyarsk" xml:space="preserve">
+    <value>Asia/Krasnoyarsk</value>
+  </data>
+  <data name="Asia/Kuala_Lumpur" xml:space="preserve">
+    <value>Asia/Kuala_Lumpur</value>
+  </data>
+  <data name="Asia/Kuching" xml:space="preserve">
+    <value>Asia/Kuching</value>
+  </data>
+  <data name="Asia/Kuwait" xml:space="preserve">
+    <value>Asia/Kuwait</value>
+  </data>
+  <data name="Asia/Macau" xml:space="preserve">
+    <value>Asia/Macau</value>
+  </data>
+  <data name="Asia/Magadan" xml:space="preserve">
+    <value>Asia/Magadan</value>
+  </data>
+  <data name="Asia/Makassar" xml:space="preserve">
+    <value>Asia/Makassar</value>
+  </data>
+  <data name="Asia/Manila" xml:space="preserve">
+    <value>Asia/Manila</value>
+  </data>
+  <data name="Asia/Muscat" xml:space="preserve">
+    <value>Asia/Muscat</value>
+  </data>
+  <data name="Asia/Nicosia" xml:space="preserve">
+    <value>Asia/Nicosia</value>
+  </data>
+  <data name="Asia/Novosibirsk" xml:space="preserve">
+    <value>Asia/Novosibirsk</value>
+  </data>
+  <data name="Asia/Omsk" xml:space="preserve">
+    <value>Asia/Omsk</value>
+  </data>
+  <data name="Asia/Oral" xml:space="preserve">
+    <value>Asia/Oral</value>
+  </data>
+  <data name="Asia/Phnom_Penh" xml:space="preserve">
+    <value>Asia/Phnom_Penh</value>
+  </data>
+  <data name="Asia/Pontianak" xml:space="preserve">
+    <value>Asia/Pontianak</value>
+  </data>
+  <data name="Asia/Pyongyang" xml:space="preserve">
+    <value>Asia/Pyongyang</value>
+  </data>
+  <data name="Asia/Qatar" xml:space="preserve">
+    <value>Asia/Qatar</value>
+  </data>
+  <data name="Asia/Qyzylorda" xml:space="preserve">
+    <value>Asia/Qyzylorda</value>
+  </data>
+  <data name="Asia/Rangoon" xml:space="preserve">
+    <value>Asia/Rangoon</value>
+  </data>
+  <data name="Asia/Riyadh" xml:space="preserve">
+    <value>Asia/Riyadh</value>
+  </data>
+  <data name="Asia/Saigon" xml:space="preserve">
+    <value>Asia/Saigon</value>
+  </data>
+  <data name="Asia/Sakhalin" xml:space="preserve">
+    <value>Asia/Sakhalin</value>
+  </data>
+  <data name="Asia/Samarkand" xml:space="preserve">
+    <value>Asia/Samarkand</value>
+  </data>
+  <data name="Asia/Seoul" xml:space="preserve">
+    <value>Asia/Seoul</value>
+  </data>
+  <data name="Asia/Shanghai" xml:space="preserve">
+    <value>Asia/Shanghai</value>
+  </data>
+  <data name="Asia/Singapore" xml:space="preserve">
+    <value>Asia/Singapore</value>
+  </data>
+  <data name="Asia/Taipei" xml:space="preserve">
+    <value>Asia/Taipei</value>
+  </data>
+  <data name="Asia/Tashkent" xml:space="preserve">
+    <value>Asia/Tashkent</value>
+  </data>
+  <data name="Asia/Tbilisi" xml:space="preserve">
+    <value>Asia/Tbilisi</value>
+  </data>
+  <data name="Asia/Tehran" xml:space="preserve">
+    <value>Asia/Tehran</value>
+  </data>
+  <data name="Asia/Thimphu" xml:space="preserve">
+    <value>Asia/Thimphu</value>
+  </data>
+  <data name="Asia/Tokyo" xml:space="preserve">
+    <value>Asia/Tokyo</value>
+  </data>
+  <data name="Asia/Ulaanbaatar" xml:space="preserve">
+    <value>Asia/Ulaanbaatar</value>
+  </data>
+  <data name="Asia/Urumqi" xml:space="preserve">
+    <value>Asia/Urumqi</value>
+  </data>
+  <data name="Asia/Vientiane" xml:space="preserve">
+    <value>Asia/Vientiane</value>
+  </data>
+  <data name="Asia/Vladivostok" xml:space="preserve">
+    <value>Asia/Vladivostok</value>
+  </data>
+  <data name="Asia/Yakutsk" xml:space="preserve">
+    <value>Asia/Yakutsk</value>
+  </data>
+  <data name="Asia/Yekaterinburg" xml:space="preserve">
+    <value>Asia/Yekaterinburg</value>
+  </data>
+  <data name="Asia/Yerevan" xml:space="preserve">
+    <value>Asia/Yerevan</value>
+  </data>
+  <data name="AT" xml:space="preserve">
+    <value>AUSTRIA</value>
+  </data>
+  <data name="Atlantic/Azores" xml:space="preserve">
+    <value>Atlantic/Azores</value>
+  </data>
+  <data name="Atlantic/Bermuda" xml:space="preserve">
+    <value>Atlantic/Bermuda</value>
+  </data>
+  <data name="Atlantic/Canary" xml:space="preserve">
+    <value>Atlantic/Canary</value>
+  </data>
+  <data name="Atlantic/Cape_Verde" xml:space="preserve">
+    <value>Atlantic/Cape_Verde</value>
+  </data>
+  <data name="Atlantic/Faeroe" xml:space="preserve">
+    <value>Atlantic/Faeroe</value>
+  </data>
+  <data name="Atlantic/Jan_Mayen" xml:space="preserve">
+    <value>Atlantic/Jan_Mayen</value>
+  </data>
+  <data name="Atlantic/Madeira" xml:space="preserve">
+    <value>Atlantic/Madeira</value>
+  </data>
+  <data name="Atlantic/Reykjavik" xml:space="preserve">
+    <value>Atlantic/Reykjavik</value>
+  </data>
+  <data name="Atlantic/South_Georgia" xml:space="preserve">
+    <value>Atlantic/South_Georgia</value>
+  </data>
+  <data name="Atlantic/Stanley" xml:space="preserve">
+    <value>Atlantic/Stanley</value>
+  </data>
+  <data name="Atlantic/St_Helena" xml:space="preserve">
+    <value>Atlantic/St_Helena</value>
+  </data>
+  <data name="AU" xml:space="preserve">
+    <value>AUSTRALIA</value>
+  </data>
+  <data name="Australia/Adelaide" xml:space="preserve">
+    <value>Australia/Adelaide</value>
+  </data>
+  <data name="Australia/Brisbane" xml:space="preserve">
+    <value>Australia/Brisbane</value>
+  </data>
+  <data name="Australia/Broken_Hill" xml:space="preserve">
+    <value>Australia/Broken_Hill</value>
+  </data>
+  <data name="Australia/Currie" xml:space="preserve">
+    <value>Australia/Currie</value>
+  </data>
+  <data name="Australia/Darwin" xml:space="preserve">
+    <value>Australia/Darwin</value>
+  </data>
+  <data name="Australia/Hobart" xml:space="preserve">
+    <value>Australia/Hobart</value>
+  </data>
+  <data name="Australia/Lindeman" xml:space="preserve">
+    <value>Australia/Lindeman</value>
+  </data>
+  <data name="Australia/Lord_Howe" xml:space="preserve">
+    <value>Australia/Lord_Howe</value>
+  </data>
+  <data name="Australia/Melbourne" xml:space="preserve">
+    <value>Australia/Melbourne</value>
+  </data>
+  <data name="Australia/Perth" xml:space="preserve">
+    <value>Australia/Perth</value>
+  </data>
+  <data name="Australia/Sydney" xml:space="preserve">
+    <value>Australia/Sydney</value>
+  </data>
+  <data name="AW" xml:space="preserve">
+    <value>ARUBA</value>
+  </data>
+  <data name="AX" xml:space="preserve">
+    <value>ÅLAND ISLANDS</value>
+  </data>
+  <data name="AZ" xml:space="preserve">
+    <value>AZERBAIJAN</value>
+  </data>
+  <data name="BA" xml:space="preserve">
+    <value>BOSNIA AND HERZEGOVINA</value>
+  </data>
+  <data name="BB" xml:space="preserve">
+    <value>BARBADOS</value>
+  </data>
+  <data name="BD" xml:space="preserve">
+    <value>BANGLADESH</value>
+  </data>
+  <data name="BE" xml:space="preserve">
+    <value>BELGIUM</value>
+  </data>
+  <data name="BF" xml:space="preserve">
+    <value>BURKINA FASO</value>
+  </data>
+  <data name="BG" xml:space="preserve">
+    <value>BULGARIA</value>
+  </data>
+  <data name="BH" xml:space="preserve">
+    <value>BAHRAIN</value>
+  </data>
+  <data name="BI" xml:space="preserve">
+    <value>BURUNDI</value>
+  </data>
+  <data name="BJ" xml:space="preserve">
+    <value>BENIN</value>
+  </data>
+  <data name="BM" xml:space="preserve">
+    <value>BERMUDA</value>
+  </data>
+  <data name="BN" xml:space="preserve">
+    <value>BRUNEI DARUSSALAM</value>
+  </data>
+  <data name="BO" xml:space="preserve">
+    <value>BOLIVIA</value>
+  </data>
+  <data name="BR" xml:space="preserve">
+    <value>BRAZIL</value>
+  </data>
+  <data name="BS" xml:space="preserve">
+    <value>BAHAMAS</value>
+  </data>
+  <data name="BT" xml:space="preserve">
+    <value>BHUTAN</value>
+  </data>
+  <data name="BV" xml:space="preserve">
+    <value>BOUVET ISLAND</value>
+  </data>
+  <data name="BW" xml:space="preserve">
+    <value>BOTSWANA</value>
+  </data>
+  <data name="BY" xml:space="preserve">
+    <value>BELARUS</value>
+  </data>
+  <data name="BZ" xml:space="preserve">
+    <value>BELIZE</value>
+  </data>
+  <data name="CA" xml:space="preserve">
+    <value>CANADA</value>
+  </data>
+  <data name="CC" xml:space="preserve">
+    <value>COCOS (KEELING) ISLANDS</value>
+  </data>
+  <data name="CD" xml:space="preserve">
+    <value>CONGO, THE DEMOCRATIC REPUBLIC OF THE</value>
+  </data>
+  <data name="CF" xml:space="preserve">
+    <value>CENTRAL AFRICAN REPUBLIC</value>
+  </data>
+  <data name="CG" xml:space="preserve">
+    <value>CONGO</value>
+  </data>
+  <data name="CH" xml:space="preserve">
+    <value>SWITZERLAND</value>
+  </data>
+  <data name="CI" xml:space="preserve">
+    <value>CÔTE D'IVOIRE</value>
+  </data>
+  <data name="CK" xml:space="preserve">
+    <value>COOK ISLANDS</value>
+  </data>
+  <data name="CL" xml:space="preserve">
+    <value>CHILE</value>
+  </data>
+  <data name="CM" xml:space="preserve">
+    <value>CAMEROON</value>
+  </data>
+  <data name="CN" xml:space="preserve">
+    <value>CHINA</value>
+  </data>
+  <data name="CO" xml:space="preserve">
+    <value>COLOMBIA</value>
+  </data>
+  <data name="CR" xml:space="preserve">
+    <value>COSTA RICA</value>
+  </data>
+  <data name="CU" xml:space="preserve">
+    <value>CUBA</value>
+  </data>
+  <data name="CV" xml:space="preserve">
+    <value>CAPE VERDE</value>
+  </data>
+  <data name="CX" xml:space="preserve">
+    <value>CHRISTMAS ISLAND</value>
+  </data>
+  <data name="CY" xml:space="preserve">
+    <value>CYPRUS</value>
+  </data>
+  <data name="CZ" xml:space="preserve">
+    <value>CZECH REPUBLIC</value>
+  </data>
+  <data name="DE" xml:space="preserve">
+    <value>GERMANY</value>
+  </data>
+  <data name="DJ" xml:space="preserve">
+    <value>DJIBOUTI</value>
+  </data>
+  <data name="DK" xml:space="preserve">
+    <value>DENMARK</value>
+  </data>
+  <data name="DM" xml:space="preserve">
+    <value>DOMINICA</value>
+  </data>
+  <data name="DO" xml:space="preserve">
+    <value>DOMINICAN REPUBLIC</value>
+  </data>
+  <data name="DZ" xml:space="preserve">
+    <value>ALGERIA</value>
+  </data>
+  <data name="EC" xml:space="preserve">
+    <value>ECUADOR</value>
+  </data>
+  <data name="EE" xml:space="preserve">
+    <value>ESTONIA</value>
+  </data>
+  <data name="EG" xml:space="preserve">
+    <value>EGYPT</value>
+  </data>
+  <data name="EH" xml:space="preserve">
+    <value>WESTERN SAHARA</value>
+  </data>
+  <data name="ER" xml:space="preserve">
+    <value>ERITREA</value>
+  </data>
+  <data name="ES" xml:space="preserve">
+    <value>SPAIN</value>
+  </data>
+  <data name="ET" xml:space="preserve">
+    <value>ETHIOPIA</value>
+  </data>
+  <data name="Europe/Amsterdam" xml:space="preserve">
+    <value>Europe/Amsterdam</value>
+  </data>
+  <data name="Europe/Andorra" xml:space="preserve">
+    <value>Europe/Andorra</value>
+  </data>
+  <data name="Europe/Athens" xml:space="preserve">
+    <value>Europe/Athens</value>
+  </data>
+  <data name="Europe/Belgrade" xml:space="preserve">
+    <value>Europe/Belgrade</value>
+  </data>
+  <data name="Europe/Berlin" xml:space="preserve">
+    <value>Europe/Berlin</value>
+  </data>
+  <data name="Europe/Bratislava" xml:space="preserve">
+    <value>Europe/Bratislava</value>
+  </data>
+  <data name="Europe/Brussels" xml:space="preserve">
+    <value>Europe/Brussels</value>
+  </data>
+  <data name="Europe/Bucharest" xml:space="preserve">
+    <value>Europe/Bucharest</value>
+  </data>
+  <data name="Europe/Budapest" xml:space="preserve">
+    <value>Europe/Budapest</value>
+  </data>
+  <data name="Europe/Chisinau" xml:space="preserve">
+    <value>Europe/Chisinau</value>
+  </data>
+  <data name="Europe/Copenhagen" xml:space="preserve">
+    <value>Europe/Copenhagen</value>
+  </data>
+  <data name="Europe/Dublin" xml:space="preserve">
+    <value>Europe/Dublin</value>
+  </data>
+  <data name="Europe/Gibraltar" xml:space="preserve">
+    <value>Europe/Gibraltar</value>
+  </data>
+  <data name="Europe/Helsinki" xml:space="preserve">
+    <value>Europe/Helsinki</value>
+  </data>
+  <data name="Europe/Istanbul" xml:space="preserve">
+    <value>Europe/Istanbul</value>
+  </data>
+  <data name="Europe/Kaliningrad" xml:space="preserve">
+    <value>Europe/Kaliningrad</value>
+  </data>
+  <data name="Europe/Kiev" xml:space="preserve">
+    <value>Europe/Kiev</value>
+  </data>
+  <data name="Europe/Lisbon" xml:space="preserve">
+    <value>Europe/Lisbon</value>
+  </data>
+  <data name="Europe/Ljubljana" xml:space="preserve">
+    <value>Europe/Ljubljana</value>
+  </data>
+  <data name="Europe/London" xml:space="preserve">
+    <value>Europe/London</value>
+  </data>
+  <data name="Europe/Luxembourg" xml:space="preserve">
+    <value>Europe/Luxembourg</value>
+  </data>
+  <data name="Europe/Madrid" xml:space="preserve">
+    <value>Europe/Madrid</value>
+  </data>
+  <data name="Europe/Malta" xml:space="preserve">
+    <value>Europe/Malta</value>
+  </data>
+  <data name="Europe/Mariehamn" xml:space="preserve">
+    <value>Europe/Mariehamn</value>
+  </data>
+  <data name="Europe/Minsk" xml:space="preserve">
+    <value>Europe/Minsk</value>
+  </data>
+  <data name="Europe/Monaco" xml:space="preserve">
+    <value>Europe/Monaco</value>
+  </data>
+  <data name="Europe/Moscow" xml:space="preserve">
+    <value>Europe/Moscow</value>
+  </data>
+  <data name="Europe/Oslo" xml:space="preserve">
+    <value>Europe/Oslo</value>
+  </data>
+  <data name="Europe/Paris" xml:space="preserve">
+    <value>Europe/Paris</value>
+  </data>
+  <data name="Europe/Prague" xml:space="preserve">
+    <value>Europe/Prague</value>
+  </data>
+  <data name="Europe/Riga" xml:space="preserve">
+    <value>Europe/Riga</value>
+  </data>
+  <data name="Europe/Rome" xml:space="preserve">
+    <value>Europe/Rome</value>
+  </data>
+  <data name="Europe/Samara" xml:space="preserve">
+    <value>Europe/Samara</value>
+  </data>
+  <data name="Europe/San_Marino" xml:space="preserve">
+    <value>Europe/San_Marino</value>
+  </data>
+  <data name="Europe/Sarajevo" xml:space="preserve">
+    <value>Europe/Sarajevo</value>
+  </data>
+  <data name="Europe/Simferopol" xml:space="preserve">
+    <value>Europe/Simferopol</value>
+  </data>
+  <data name="Europe/Skopje" xml:space="preserve">
+    <value>Europe/Skopje</value>
+  </data>
+  <data name="Europe/Sofia" xml:space="preserve">
+    <value>Europe/Sofia</value>
+  </data>
+  <data name="Europe/Stockholm" xml:space="preserve">
+    <value>Europe/Stockholm</value>
+  </data>
+  <data name="Europe/Tallinn" xml:space="preserve">
+    <value>Europe/Tallinn</value>
+  </data>
+  <data name="Europe/Tirane" xml:space="preserve">
+    <value>Europe/Tirane</value>
+  </data>
+  <data name="Europe/Uzhgorod" xml:space="preserve">
+    <value>Europe/Uzhgorod</value>
+  </data>
+  <data name="Europe/Vaduz" xml:space="preserve">
+    <value>Europe/Vaduz</value>
+  </data>
+  <data name="Europe/Vatican" xml:space="preserve">
+    <value>Europe/Vatican</value>
+  </data>
+  <data name="Europe/Vienna" xml:space="preserve">
+    <value>Europe/Vienna</value>
+  </data>
+  <data name="Europe/Vilnius" xml:space="preserve">
+    <value>Europe/Vilnius</value>
+  </data>
+  <data name="Europe/Warsaw" xml:space="preserve">
+    <value>Europe/Warsaw</value>
+  </data>
+  <data name="Europe/Zagreb" xml:space="preserve">
+    <value>Europe/Zagreb</value>
+  </data>
+  <data name="Europe/Zaporozhye" xml:space="preserve">
+    <value>Europe/Zaporozhye</value>
+  </data>
+  <data name="Europe/Zurich" xml:space="preserve">
+    <value>Europe/Zurich</value>
+  </data>
+  <data name="Female" xml:space="preserve">
+    <value>Female</value>
+  </data>
+  <data name="FI" xml:space="preserve">
+    <value>FINLAND</value>
+  </data>
+  <data name="FJ" xml:space="preserve">
+    <value>FIJI</value>
+  </data>
+  <data name="FK" xml:space="preserve">
+    <value>FALKLAND ISLANDS (MALVINAS)</value>
+  </data>
+  <data name="FM" xml:space="preserve">
+    <value>MICRONESIA, FEDERATED STATES OF</value>
+  </data>
+  <data name="FO" xml:space="preserve">
+    <value>FAROE ISLANDS</value>
+  </data>
+  <data name="FR" xml:space="preserve">
+    <value>FRANCE</value>
+  </data>
+  <data name="GA" xml:space="preserve">
+    <value>GABON</value>
+  </data>
+  <data name="GB" xml:space="preserve">
+    <value>UNITED KINGDOM</value>
+  </data>
+  <data name="GD" xml:space="preserve">
+    <value>GRENADA</value>
+  </data>
+  <data name="GE" xml:space="preserve">
+    <value>GEORGIA</value>
+  </data>
+  <data name="GF" xml:space="preserve">
+    <value>FRENCH GUIANA</value>
+  </data>
+  <data name="GG" xml:space="preserve">
+    <value>GUERNSEY</value>
+  </data>
+  <data name="GH" xml:space="preserve">
+    <value>GHANA</value>
+  </data>
+  <data name="GI" xml:space="preserve">
+    <value>GIBRALTAR</value>
+  </data>
+  <data name="GL" xml:space="preserve">
+    <value>GREENLAND</value>
+  </data>
+  <data name="GM" xml:space="preserve">
+    <value>GAMBIA</value>
+  </data>
+  <data name="GN" xml:space="preserve">
+    <value>GUINEA</value>
+  </data>
+  <data name="GP" xml:space="preserve">
+    <value>GUADELOUPE</value>
+  </data>
+  <data name="GQ" xml:space="preserve">
+    <value>EQUATORIAL GUINEA</value>
+  </data>
+  <data name="GR" xml:space="preserve">
+    <value>GREECE</value>
+  </data>
+  <data name="GS" xml:space="preserve">
+    <value>SOUTH GEORGIA AND THE SOUTH SANDWICH ISLANDS</value>
+  </data>
+  <data name="GT" xml:space="preserve">
+    <value>GUATEMALA</value>
+  </data>
+  <data name="GU" xml:space="preserve">
+    <value>GUAM</value>
+  </data>
+  <data name="GW" xml:space="preserve">
+    <value>GUINEA-BISSAU</value>
+  </data>
+  <data name="GY" xml:space="preserve">
+    <value>GUYANA</value>
+  </data>
+  <data name="HK" xml:space="preserve">
+    <value>HONG KONG</value>
+  </data>
+  <data name="HM" xml:space="preserve">
+    <value>HEARD ISLAND AND MCDONALD ISLANDS</value>
+  </data>
+  <data name="HN" xml:space="preserve">
+    <value>HONDURAS</value>
+  </data>
+  <data name="HR" xml:space="preserve">
+    <value>CROATIA</value>
+  </data>
+  <data name="HT" xml:space="preserve">
+    <value>HAITI</value>
+  </data>
+  <data name="HU" xml:space="preserve">
+    <value>HUNGARY</value>
+  </data>
+  <data name="ID" xml:space="preserve">
+    <value>INDONESIA</value>
+  </data>
+  <data name="IE" xml:space="preserve">
+    <value>IRELAND</value>
+  </data>
+  <data name="IL" xml:space="preserve">
+    <value>ISRAEL</value>
+  </data>
+  <data name="IM" xml:space="preserve">
+    <value>ISLE OF MAN</value>
+  </data>
+  <data name="IN" xml:space="preserve">
+    <value>INDIA</value>
+  </data>
+  <data name="Indian/Antananarivo" xml:space="preserve">
+    <value>Indian/Antananarivo</value>
+  </data>
+  <data name="Indian/Chagos" xml:space="preserve">
+    <value>Indian/Chagos</value>
+  </data>
+  <data name="Indian/Christmas" xml:space="preserve">
+    <value>Indian/Christmas</value>
+  </data>
+  <data name="Indian/Cocos" xml:space="preserve">
+    <value>Indian/Cocos</value>
+  </data>
+  <data name="Indian/Comoro" xml:space="preserve">
+    <value>Indian/Comoro</value>
+  </data>
+  <data name="Indian/Kerguelen" xml:space="preserve">
+    <value>Indian/Kerguelen</value>
+  </data>
+  <data name="Indian/Mahe" xml:space="preserve">
+    <value>Indian/Mahe</value>
+  </data>
+  <data name="Indian/Maldives" xml:space="preserve">
+    <value>Indian/Maldives</value>
+  </data>
+  <data name="Indian/Mauritius" xml:space="preserve">
+    <value>Indian/Mauritius</value>
+  </data>
+  <data name="Indian/Mayotte" xml:space="preserve">
+    <value>Indian/Mayotte</value>
+  </data>
+  <data name="Indian/Reunion" xml:space="preserve">
+    <value>Indian/Reunion</value>
+  </data>
+  <data name="IO" xml:space="preserve">
+    <value>BRITISH INDIAN OCEAN TERRITORY</value>
+  </data>
+  <data name="IQ" xml:space="preserve">
+    <value>IRAQ</value>
+  </data>
+  <data name="IR" xml:space="preserve">
+    <value>IRAN, ISLAMIC REPUBLIC OF</value>
+  </data>
+  <data name="IS" xml:space="preserve">
+    <value>ICELAND</value>
+  </data>
+  <data name="IT" xml:space="preserve">
+    <value>ITALY</value>
+  </data>
+  <data name="JE" xml:space="preserve">
+    <value>JERSEY</value>
+  </data>
+  <data name="JM" xml:space="preserve">
+    <value>JAMAICA</value>
+  </data>
+  <data name="JO" xml:space="preserve">
+    <value>JORDAN</value>
+  </data>
+  <data name="JP" xml:space="preserve">
+    <value>JAPAN</value>
+  </data>
+  <data name="KE" xml:space="preserve">
+    <value>KENYA</value>
+  </data>
+  <data name="KG" xml:space="preserve">
+    <value>KYRGYZSTAN</value>
+  </data>
+  <data name="KH" xml:space="preserve">
+    <value>CAMBODIA</value>
+  </data>
+  <data name="KI" xml:space="preserve">
+    <value>KIRIBATI</value>
+  </data>
+  <data name="KM" xml:space="preserve">
+    <value>COMOROS</value>
+  </data>
+  <data name="KN" xml:space="preserve">
+    <value>SAINT KITTS AND NEVIS</value>
+  </data>
+  <data name="KP" xml:space="preserve">
+    <value>KOREA, DEMOCRATIC PEOPLE'S REPUBLIC OF</value>
+  </data>
+  <data name="KR" xml:space="preserve">
+    <value>KOREA, REPUBLIC OF</value>
+  </data>
+  <data name="KW" xml:space="preserve">
+    <value>KUWAIT</value>
+  </data>
+  <data name="KY" xml:space="preserve">
+    <value>CAYMAN ISLANDS</value>
+  </data>
+  <data name="KZ" xml:space="preserve">
+    <value>KAZAKHSTAN</value>
+  </data>
+  <data name="LA" xml:space="preserve">
+    <value>LAO PEOPLE'S DEMOCRATIC REPUBLIC</value>
+  </data>
+  <data name="LB" xml:space="preserve">
+    <value>LEBANON</value>
+  </data>
+  <data name="LC" xml:space="preserve">
+    <value>SAINT LUCIA</value>
+  </data>
+  <data name="LI" xml:space="preserve">
+    <value>LIECHTENSTEIN</value>
+  </data>
+  <data name="LK" xml:space="preserve">
+    <value>SRI LANKA</value>
+  </data>
+  <data name="LR" xml:space="preserve">
+    <value>LIBERIA</value>
+  </data>
+  <data name="LS" xml:space="preserve">
+    <value>LESOTHO</value>
+  </data>
+  <data name="LT" xml:space="preserve">
+    <value>LITHUANIA</value>
+  </data>
+  <data name="LU" xml:space="preserve">
+    <value>LUXEMBOURG</value>
+  </data>
+  <data name="LV" xml:space="preserve">
+    <value>LATVIA</value>
+  </data>
+  <data name="LY" xml:space="preserve">
+    <value>LIBYAN ARAB JAMAHIRIYA</value>
+  </data>
+  <data name="L_AA" xml:space="preserve">
+    <value>Afar</value>
+  </data>
+  <data name="L_AB" xml:space="preserve">
+    <value>Abkhazian</value>
+  </data>
+  <data name="L_AF" xml:space="preserve">
+    <value>Afrikaans</value>
+  </data>
+  <data name="L_AM" xml:space="preserve">
+    <value>Amharic</value>
+  </data>
+  <data name="L_AR" xml:space="preserve">
+    <value>Arabic</value>
+  </data>
+  <data name="L_AS" xml:space="preserve">
+    <value>Assamese</value>
+  </data>
+  <data name="L_AY" xml:space="preserve">
+    <value>Aymara</value>
+  </data>
+  <data name="L_AZ" xml:space="preserve">
+    <value>Azerbaijani</value>
+  </data>
+  <data name="L_BA" xml:space="preserve">
+    <value>Bashkir</value>
+  </data>
+  <data name="L_BE" xml:space="preserve">
+    <value>Byelorussian</value>
+  </data>
+  <data name="L_BG" xml:space="preserve">
+    <value>Bulgarian</value>
+  </data>
+  <data name="L_BH" xml:space="preserve">
+    <value>Bihari</value>
+  </data>
+  <data name="L_BI" xml:space="preserve">
+    <value>Bislama</value>
+  </data>
+  <data name="L_BN" xml:space="preserve">
+    <value>Bengali</value>
+  </data>
+  <data name="L_BO" xml:space="preserve">
+    <value>Tibetan</value>
+  </data>
+  <data name="L_BR" xml:space="preserve">
+    <value>Breton</value>
+  </data>
+  <data name="L_CA" xml:space="preserve">
+    <value>Catalan</value>
+  </data>
+  <data name="L_CO" xml:space="preserve">
+    <value>Corsican</value>
+  </data>
+  <data name="L_CS" xml:space="preserve">
+    <value>Czech</value>
+  </data>
+  <data name="L_CY" xml:space="preserve">
+    <value>Welsh</value>
+  </data>
+  <data name="L_DA" xml:space="preserve">
+    <value>Danish</value>
+  </data>
+  <data name="L_DE" xml:space="preserve">
+    <value>German</value>
+  </data>
+  <data name="L_DZ" xml:space="preserve">
+    <value>Bhutani</value>
+  </data>
+  <data name="L_EL" xml:space="preserve">
+    <value>Greek</value>
+  </data>
+  <data name="L_EN" xml:space="preserve">
+    <value>English</value>
+  </data>
+  <data name="L_EO" xml:space="preserve">
+    <value>Esperanto</value>
+  </data>
+  <data name="L_ES" xml:space="preserve">
+    <value>Spanish</value>
+  </data>
+  <data name="L_ET" xml:space="preserve">
+    <value>Estonian</value>
+  </data>
+  <data name="L_EU" xml:space="preserve">
+    <value>Basque</value>
+  </data>
+  <data name="L_FA" xml:space="preserve">
+    <value>Persian</value>
+  </data>
+  <data name="L_FI" xml:space="preserve">
+    <value>Finnish</value>
+  </data>
+  <data name="L_FJ" xml:space="preserve">
+    <value>Fiji</value>
+  </data>
+  <data name="L_FO" xml:space="preserve">
+    <value>Faeroese</value>
+  </data>
+  <data name="L_FR" xml:space="preserve">
+    <value>French</value>
+  </data>
+  <data name="L_FY" xml:space="preserve">
+    <value>Frisian</value>
+  </data>
+  <data name="L_GA" xml:space="preserve">
+    <value>Irish</value>
+  </data>
+  <data name="L_GD" xml:space="preserve">
+    <value>Gaelic</value>
+  </data>
+  <data name="L_GL" xml:space="preserve">
+    <value>Galician</value>
+  </data>
+  <data name="L_GN" xml:space="preserve">
+    <value>Guarani</value>
+  </data>
+  <data name="L_GU" xml:space="preserve">
+    <value>Gujarati</value>
+  </data>
+  <data name="L_HA" xml:space="preserve">
+    <value>Hausa</value>
+  </data>
+  <data name="L_HI" xml:space="preserve">
+    <value>Hindi</value>
+  </data>
+  <data name="L_HR" xml:space="preserve">
+    <value>Croatian</value>
+  </data>
+  <data name="L_HU" xml:space="preserve">
+    <value>Hungarian</value>
+  </data>
+  <data name="L_HY" xml:space="preserve">
+    <value>Armenian</value>
+  </data>
+  <data name="L_IA" xml:space="preserve">
+    <value>Interlingua</value>
+  </data>
+  <data name="L_IE" xml:space="preserve">
+    <value>Interlingue</value>
+  </data>
+  <data name="L_IK" xml:space="preserve">
+    <value>Inupiak</value>
+  </data>
+  <data name="L_IN" xml:space="preserve">
+    <value>Indonesian</value>
+  </data>
+  <data name="L_IS" xml:space="preserve">
+    <value>Icelandic</value>
+  </data>
+  <data name="L_IT" xml:space="preserve">
+    <value>Italian</value>
+  </data>
+  <data name="L_IW" xml:space="preserve">
+    <value>Hebrew</value>
+  </data>
+  <data name="L_JA" xml:space="preserve">
+    <value>Japanese</value>
+  </data>
+  <data name="L_JI" xml:space="preserve">
+    <value>Yiddish</value>
+  </data>
+  <data name="L_JW" xml:space="preserve">
+    <value>Javanese</value>
+  </data>
+  <data name="L_KA" xml:space="preserve">
+    <value>Georgian</value>
+  </data>
+  <data name="L_KK" xml:space="preserve">
+    <value>Kazakh</value>
+  </data>
+  <data name="L_KL" xml:space="preserve">
+    <value>Greenlandic</value>
+  </data>
+  <data name="L_KM" xml:space="preserve">
+    <value>Cambodian</value>
+  </data>
+  <data name="L_KN" xml:space="preserve">
+    <value>Kannada</value>
+  </data>
+  <data name="L_KO" xml:space="preserve">
+    <value>Korean</value>
+  </data>
+  <data name="L_KS" xml:space="preserve">
+    <value>Kashmiri</value>
+  </data>
+  <data name="L_KU" xml:space="preserve">
+    <value>Kurdish</value>
+  </data>
+  <data name="L_KY" xml:space="preserve">
+    <value>Kirghiz</value>
+  </data>
+  <data name="L_LA" xml:space="preserve">
+    <value>Latin</value>
+  </data>
+  <data name="L_LN" xml:space="preserve">
+    <value>Lingala</value>
+  </data>
+  <data name="L_LO" xml:space="preserve">
+    <value>Laothian</value>
+  </data>
+  <data name="L_LT" xml:space="preserve">
+    <value>Lithuanian</value>
+  </data>
+  <data name="L_LV" xml:space="preserve">
+    <value>Latvian</value>
+  </data>
+  <data name="L_MG" xml:space="preserve">
+    <value>Malagasy</value>
+  </data>
+  <data name="L_MI" xml:space="preserve">
+    <value>Maori</value>
+  </data>
+  <data name="L_MK" xml:space="preserve">
+    <value>Macedonian</value>
+  </data>
+  <data name="L_ML" xml:space="preserve">
+    <value>Malayalam</value>
+  </data>
+  <data name="L_MN" xml:space="preserve">
+    <value>Mongolian</value>
+  </data>
+  <data name="L_MO" xml:space="preserve">
+    <value>Moldavian</value>
+  </data>
+  <data name="L_MR" xml:space="preserve">
+    <value>Marathi</value>
+  </data>
+  <data name="L_MS" xml:space="preserve">
+    <value>Malay</value>
+  </data>
+  <data name="L_MT" xml:space="preserve">
+    <value>Maltese</value>
+  </data>
+  <data name="L_MY" xml:space="preserve">
+    <value>Burmese</value>
+  </data>
+  <data name="L_NA" xml:space="preserve">
+    <value>Nauru</value>
+  </data>
+  <data name="L_NE" xml:space="preserve">
+    <value>Nepali</value>
+  </data>
+  <data name="L_NL" xml:space="preserve">
+    <value>Dutch</value>
+  </data>
+  <data name="L_NO" xml:space="preserve">
+    <value>Norwegian</value>
+  </data>
+  <data name="L_OC" xml:space="preserve">
+    <value>Occitan</value>
+  </data>
+  <data name="L_OM" xml:space="preserve">
+    <value>Oromo</value>
+  </data>
+  <data name="L_OR" xml:space="preserve">
+    <value>Oriya</value>
+  </data>
+  <data name="L_PA" xml:space="preserve">
+    <value>Punjabi</value>
+  </data>
+  <data name="L_PL" xml:space="preserve">
+    <value>Polish</value>
+  </data>
+  <data name="L_PS" xml:space="preserve">
+    <value>Pashto</value>
+  </data>
+  <data name="L_PT" xml:space="preserve">
+    <value>Portuguese</value>
+  </data>
+  <data name="L_QU" xml:space="preserve">
+    <value>Quechua</value>
+  </data>
+  <data name="L_RM" xml:space="preserve">
+    <value>Rhaeto-Romance</value>
+  </data>
+  <data name="L_RN" xml:space="preserve">
+    <value>Kirundi</value>
+  </data>
+  <data name="L_RO" xml:space="preserve">
+    <value>Romanian</value>
+  </data>
+  <data name="L_RU" xml:space="preserve">
+    <value>Russian</value>
+  </data>
+  <data name="L_RW" xml:space="preserve">
+    <value>Kinyarwanda</value>
+  </data>
+  <data name="L_SA" xml:space="preserve">
+    <value>Sanskrit</value>
+  </data>
+  <data name="L_SD" xml:space="preserve">
+    <value>Sindhi</value>
+  </data>
+  <data name="L_SG" xml:space="preserve">
+    <value>Sangro</value>
+  </data>
+  <data name="L_SH" xml:space="preserve">
+    <value>Serbo-Croatian</value>
+  </data>
+  <data name="L_SI" xml:space="preserve">
+    <value>Singhalese</value>
+  </data>
+  <data name="L_SK" xml:space="preserve">
+    <value>Slovak</value>
+  </data>
+  <data name="L_SL" xml:space="preserve">
+    <value>Slovenian</value>
+  </data>
+  <data name="L_SM" xml:space="preserve">
+    <value>Samoan</value>
+  </data>
+  <data name="L_SN" xml:space="preserve">
+    <value>Shona</value>
+  </data>
+  <data name="L_SO" xml:space="preserve">
+    <value>Somali</value>
+  </data>
+  <data name="L_SQ" xml:space="preserve">
+    <value>Albanian</value>
+  </data>
+  <data name="L_SR" xml:space="preserve">
+    <value>Serbian</value>
+  </data>
+  <data name="L_SS" xml:space="preserve">
+    <value>Siswati</value>
+  </data>
+  <data name="L_ST" xml:space="preserve">
+    <value>Sesotho</value>
+  </data>
+  <data name="L_SU" xml:space="preserve">
+    <value>Sudanese</value>
+  </data>
+  <data name="L_SV" xml:space="preserve">
+    <value>Swedish</value>
+  </data>
+  <data name="L_SW" xml:space="preserve">
+    <value>Swahili</value>
+  </data>
+  <data name="L_TA" xml:space="preserve">
+    <value>Tamil</value>
+  </data>
+  <data name="L_TE" xml:space="preserve">
+    <value>Telugu</value>
+  </data>
+  <data name="L_TG" xml:space="preserve">
+    <value>Tajik</value>
+  </data>
+  <data name="L_TH" xml:space="preserve">
+    <value>Thai</value>
+  </data>
+  <data name="L_TI" xml:space="preserve">
+    <value>Tigrinya</value>
+  </data>
+  <data name="L_TK" xml:space="preserve">
+    <value>Turkmen</value>
+  </data>
+  <data name="L_TL" xml:space="preserve">
+    <value>Tagalog</value>
+  </data>
+  <data name="L_TN" xml:space="preserve">
+    <value>Setswana</value>
+  </data>
+  <data name="L_TO" xml:space="preserve">
+    <value>Tonga</value>
+  </data>
+  <data name="L_TR" xml:space="preserve">
+    <value>Turkish</value>
+  </data>
+  <data name="L_TS" xml:space="preserve">
+    <value>Tsonga</value>
+  </data>
+  <data name="L_TT" xml:space="preserve">
+    <value>Tatar</value>
+  </data>
+  <data name="L_TW" xml:space="preserve">
+    <value>Twi</value>
+  </data>
+  <data name="L_UK" xml:space="preserve">
+    <value>Ukrainian</value>
+  </data>
+  <data name="L_UR" xml:space="preserve">
+    <value>Urdu</value>
+  </data>
+  <data name="L_UZ" xml:space="preserve">
+    <value>Uzbek</value>
+  </data>
+  <data name="L_VI" xml:space="preserve">
+    <value>Vietnamese</value>
+  </data>
+  <data name="L_VO" xml:space="preserve">
+    <value>Volapuk</value>
+  </data>
+  <data name="L_WO" xml:space="preserve">
+    <value>Wolof</value>
+  </data>
+  <data name="L_XH" xml:space="preserve">
+    <value>Xhosa</value>
+  </data>
+  <data name="L_YO" xml:space="preserve">
+    <value>Yoruba</value>
+  </data>
+  <data name="L_ZH" xml:space="preserve">
+    <value>Chinese</value>
+  </data>
+  <data name="L_ZU" xml:space="preserve">
+    <value>Zulu</value>
+  </data>
+  <data name="m1" xml:space="preserve">
+    <value>January</value>
+  </data>
+  <data name="m10" xml:space="preserve">
+    <value>October</value>
+  </data>
+  <data name="m11" xml:space="preserve">
+    <value>November</value>
+  </data>
+  <data name="m12" xml:space="preserve">
+    <value>December</value>
+  </data>
+  <data name="m2" xml:space="preserve">
+    <value>February</value>
+  </data>
+  <data name="m3" xml:space="preserve">
+    <value>March</value>
+  </data>
+  <data name="m4" xml:space="preserve">
+    <value>April</value>
+  </data>
+  <data name="m5" xml:space="preserve">
+    <value>May</value>
+  </data>
+  <data name="m6" xml:space="preserve">
+    <value>June</value>
+  </data>
+  <data name="m7" xml:space="preserve">
+    <value>July</value>
+  </data>
+  <data name="m8" xml:space="preserve">
+    <value>August</value>
+  </data>
+  <data name="m9" xml:space="preserve">
+    <value>September</value>
+  </data>
+  <data name="MA" xml:space="preserve">
+    <value>MOROCCO</value>
+  </data>
+  <data name="Male" xml:space="preserve">
+    <value>Male</value>
+  </data>
+  <data name="MC" xml:space="preserve">
+    <value>MONACO</value>
+  </data>
+  <data name="MD" xml:space="preserve">
+    <value>MOLDOVA, REPUBLIC OF</value>
+  </data>
+  <data name="ME" xml:space="preserve">
+    <value>MONTENEGRO</value>
+  </data>
+  <data name="MG" xml:space="preserve">
+    <value>MADAGASCAR</value>
+  </data>
+  <data name="MH" xml:space="preserve">
+    <value>MARSHALL ISLANDS</value>
+  </data>
+  <data name="MK" xml:space="preserve">
+    <value>MACEDONIA, THE FORMER YUGOSLAV REPUBLIC OF</value>
+  </data>
+  <data name="ML" xml:space="preserve">
+    <value>MALI</value>
+  </data>
+  <data name="MM" xml:space="preserve">
+    <value>MYANMAR</value>
+  </data>
+  <data name="MN" xml:space="preserve">
+    <value>MONGOLIA</value>
+  </data>
+  <data name="MO" xml:space="preserve">
+    <value>MACAO</value>
+  </data>
+  <data name="MP" xml:space="preserve">
+    <value>NORTHERN MARIANA ISLANDS</value>
+  </data>
+  <data name="MQ" xml:space="preserve">
+    <value>MARTINIQUE</value>
+  </data>
+  <data name="MR" xml:space="preserve">
+    <value>MAURITANIA</value>
+  </data>
+  <data name="MS" xml:space="preserve">
+    <value>MONTSERRAT</value>
+  </data>
+  <data name="MT" xml:space="preserve">
+    <value>MALTA</value>
+  </data>
+  <data name="MU" xml:space="preserve">
+    <value>MAURITIUS</value>
+  </data>
+  <data name="MV" xml:space="preserve">
+    <value>MALDIVES</value>
+  </data>
+  <data name="mv1" xml:space="preserve">
+    <value>1</value>
+  </data>
+  <data name="mv10" xml:space="preserve">
+    <value>10</value>
+  </data>
+  <data name="mv11" xml:space="preserve">
+    <value>11</value>
+  </data>
+  <data name="mv12" xml:space="preserve">
+    <value>12</value>
+  </data>
+  <data name="mv2" xml:space="preserve">
+    <value>2</value>
+  </data>
+  <data name="mv3" xml:space="preserve">
+    <value>3</value>
+  </data>
+  <data name="mv4" xml:space="preserve">
+    <value>4</value>
+  </data>
+  <data name="mv5" xml:space="preserve">
+    <value>5</value>
+  </data>
+  <data name="mv6" xml:space="preserve">
+    <value>6</value>
+  </data>
+  <data name="mv7" xml:space="preserve">
+    <value>7</value>
+  </data>
+  <data name="mv8" xml:space="preserve">
+    <value>8</value>
+  </data>
+  <data name="mv9" xml:space="preserve">
+    <value>9</value>
+  </data>
+  <data name="MW" xml:space="preserve">
+    <value>MALAWI</value>
+  </data>
+  <data name="MX" xml:space="preserve">
+    <value>MEXICO</value>
+  </data>
+  <data name="MY" xml:space="preserve">
+    <value>MALAYSIA</value>
+  </data>
+  <data name="MZ" xml:space="preserve">
+    <value>MOZAMBIQUE</value>
+  </data>
+  <data name="NA" xml:space="preserve">
+    <value>NAMIBIA</value>
+  </data>
+  <data name="NC" xml:space="preserve">
+    <value>NEW CALEDONIA</value>
+  </data>
+  <data name="NE" xml:space="preserve">
+    <value>NIGER</value>
+  </data>
+  <data name="NF" xml:space="preserve">
+    <value>NORFOLK ISLAND</value>
+  </data>
+  <data name="NG" xml:space="preserve">
+    <value>NIGERIA</value>
+  </data>
+  <data name="NI" xml:space="preserve">
+    <value>NICARAGUA</value>
+  </data>
+  <data name="NL" xml:space="preserve">
+    <value>NETHERLANDS</value>
+  </data>
+  <data name="NO" xml:space="preserve">
+    <value>NORWAY</value>
+  </data>
+  <data name="NP" xml:space="preserve">
+    <value>NEPAL</value>
+  </data>
+  <data name="NR" xml:space="preserve">
+    <value>NAURU</value>
+  </data>
+  <data name="NU" xml:space="preserve">
+    <value>NIUE</value>
+  </data>
+  <data name="NZ" xml:space="preserve">
+    <value>NEW ZEALAND</value>
+  </data>
+  <data name="OM" xml:space="preserve">
+    <value>OMAN</value>
+  </data>
+  <data name="PA" xml:space="preserve">
+    <value>PANAMA</value>
+  </data>
+  <data name="Pacific/Apia" xml:space="preserve">
+    <value>Pacific/Apia</value>
+  </data>
+  <data name="Pacific/Auckland" xml:space="preserve">
+    <value>Pacific/Auckland</value>
+  </data>
+  <data name="Pacific/Chatham" xml:space="preserve">
+    <value>Pacific/Chatham</value>
+  </data>
+  <data name="Pacific/Easter" xml:space="preserve">
+    <value>Pacific/Easter</value>
+  </data>
+  <data name="Pacific/Efate" xml:space="preserve">
+    <value>Pacific/Efate</value>
+  </data>
+  <data name="Pacific/Enderbury" xml:space="preserve">
+    <value>Pacific/Enderbury</value>
+  </data>
+  <data name="Pacific/Fakaofo" xml:space="preserve">
+    <value>Pacific/Fakaofo</value>
+  </data>
+  <data name="Pacific/Fiji" xml:space="preserve">
+    <value>Pacific/Fiji</value>
+  </data>
+  <data name="Pacific/Funafuti" xml:space="preserve">
+    <value>Pacific/Funafuti</value>
+  </data>
+  <data name="Pacific/Galapagos" xml:space="preserve">
+    <value>Pacific/Galapagos</value>
+  </data>
+  <data name="Pacific/Gambier" xml:space="preserve">
+    <value>Pacific/Gambier</value>
+  </data>
+  <data name="Pacific/Guadalcanal" xml:space="preserve">
+    <value>Pacific/Guadalcanal</value>
+  </data>
+  <data name="Pacific/Guam" xml:space="preserve">
+    <value>Pacific/Guam</value>
+  </data>
+  <data name="Pacific/Honolulu" xml:space="preserve">
+    <value>Pacific/Honolulu</value>
+  </data>
+  <data name="Pacific/Johnston" xml:space="preserve">
+    <value>Pacific/Johnston</value>
+  </data>
+  <data name="Pacific/Kiritimati" xml:space="preserve">
+    <value>Pacific/Kiritimati</value>
+  </data>
+  <data name="Pacific/Kosrae" xml:space="preserve">
+    <value>Pacific/Kosrae</value>
+  </data>
+  <data name="Pacific/Kwajalein" xml:space="preserve">
+    <value>Pacific/Kwajalein</value>
+  </data>
+  <data name="Pacific/Majuro" xml:space="preserve">
+    <value>Pacific/Majuro</value>
+  </data>
+  <data name="Pacific/Marquesas" xml:space="preserve">
+    <value>Pacific/Marquesas</value>
+  </data>
+  <data name="Pacific/Midway" xml:space="preserve">
+    <value>Pacific/Midway</value>
+  </data>
+  <data name="Pacific/Nauru" xml:space="preserve">
+    <value>Pacific/Nauru</value>
+  </data>
+  <data name="Pacific/Niue" xml:space="preserve">
+    <value>Pacific/Niue</value>
+  </data>
+  <data name="Pacific/Norfolk" xml:space="preserve">
+    <value>Pacific/Norfolk</value>
+  </data>
+  <data name="Pacific/Noumea" xml:space="preserve">
+    <value>Pacific/Noumea</value>
+  </data>
+  <data name="Pacific/Pago_Pago" xml:space="preserve">
+    <value>Pacific/Pago_Pago</value>
+  </data>
+  <data name="Pacific/Palau" xml:space="preserve">
+    <value>Pacific/Palau</value>
+  </data>
+  <data name="Pacific/Pitcairn" xml:space="preserve">
+    <value>Pacific/Pitcairn</value>
+  </data>
+  <data name="Pacific/Ponape" xml:space="preserve">
+    <value>Pacific/Ponape</value>
+  </data>
+  <data name="Pacific/Port_Moresby" xml:space="preserve">
+    <value>Pacific/Port_Moresby</value>
+  </data>
+  <data name="Pacific/Rarotonga" xml:space="preserve">
+    <value>Pacific/Rarotonga</value>
+  </data>
+  <data name="Pacific/Saipan" xml:space="preserve">
+    <value>Pacific/Saipan</value>
+  </data>
+  <data name="Pacific/Tahiti" xml:space="preserve">
+    <value>Pacific/Tahiti</value>
+  </data>
+  <data name="Pacific/Tarawa" xml:space="preserve">
+    <value>Pacific/Tarawa</value>
+  </data>
+  <data name="Pacific/Tongatapu" xml:space="preserve">
+    <value>Pacific/Tongatapu</value>
+  </data>
+  <data name="Pacific/Truk" xml:space="preserve">
+    <value>Pacific/Truk</value>
+  </data>
+  <data name="Pacific/Wake" xml:space="preserve">
+    <value>Pacific/Wake</value>
+  </data>
+  <data name="Pacific/Wallis" xml:space="preserve">
+    <value>Pacific/Wallis</value>
+  </data>
+  <data name="PE" xml:space="preserve">
+    <value>PERU</value>
+  </data>
+  <data name="PF" xml:space="preserve">
+    <value>FRENCH POLYNESIA</value>
+  </data>
+  <data name="PG" xml:space="preserve">
+    <value>PAPUA NEW GUINEA</value>
+  </data>
+  <data name="PH" xml:space="preserve">
+    <value>PHILIPPINES</value>
+  </data>
+  <data name="PK" xml:space="preserve">
+    <value>PAKISTAN</value>
+  </data>
+  <data name="PL" xml:space="preserve">
+    <value>POLAND</value>
+  </data>
+  <data name="PM" xml:space="preserve">
+    <value>SAINT PIERRE AND MIQUELON</value>
+  </data>
+  <data name="PN" xml:space="preserve">
+    <value>PITCAIRN</value>
+  </data>
+  <data name="PR" xml:space="preserve">
+    <value>PUERTO RICO</value>
+  </data>
+  <data name="privacyLink.Text" xml:space="preserve">
+    <value>privacy policy</value>
+  </data>
+  <data name="PS" xml:space="preserve">
+    <value>PALESTINIAN TERRITORY, OCCUPIED</value>
+  </data>
+  <data name="PT" xml:space="preserve">
+    <value>PORTUGAL</value>
+  </data>
+  <data name="PW" xml:space="preserve">
+    <value>PALAU</value>
+  </data>
+  <data name="PY" xml:space="preserve">
+    <value>PARAGUAY</value>
+  </data>
+  <data name="QA" xml:space="preserve">
+    <value>QATAR</value>
+  </data>
+  <data name="RE" xml:space="preserve">
+    <value>RÉUNION</value>
+  </data>
+  <data name="RO" xml:space="preserve">
+    <value>ROMANIA</value>
+  </data>
+  <data name="RS" xml:space="preserve">
+    <value>SERBIA</value>
+  </data>
+  <data name="RU" xml:space="preserve">
+    <value>RUSSIAN FEDERATION</value>
+  </data>
+  <data name="RW" xml:space="preserve">
+    <value>RWANDA</value>
+  </data>
+  <data name="SA" xml:space="preserve">
+    <value>SAUDI ARABIA</value>
+  </data>
+  <data name="SB" xml:space="preserve">
+    <value>SOLOMON ISLANDS</value>
+  </data>
+  <data name="SC" xml:space="preserve">
+    <value>SEYCHELLES</value>
+  </data>
+  <data name="SD" xml:space="preserve">
+    <value>SUDAN</value>
+  </data>
+  <data name="SE" xml:space="preserve">
+    <value>SWEDEN</value>
+  </data>
+  <data name="SG" xml:space="preserve">
+    <value>SINGAPORE</value>
+  </data>
+  <data name="SH" xml:space="preserve">
+    <value>SAINT HELENA</value>
+  </data>
+  <data name="SI" xml:space="preserve">
+    <value>SLOVENIA</value>
+  </data>
+  <data name="SJ" xml:space="preserve">
+    <value>SVALBARD AND JAN MAYEN</value>
+  </data>
+  <data name="SK" xml:space="preserve">
+    <value>SLOVAKIA</value>
+  </data>
+  <data name="SL" xml:space="preserve">
+    <value>SIERRA LEONE</value>
+  </data>
+  <data name="SM" xml:space="preserve">
+    <value>SAN MARINO</value>
+  </data>
+  <data name="SN" xml:space="preserve">
+    <value>SENEGAL</value>
+  </data>
+  <data name="SO" xml:space="preserve">
+    <value>SOMALIA</value>
+  </data>
+  <data name="SR" xml:space="preserve">
+    <value>SURINAME</value>
+  </data>
+  <data name="ST" xml:space="preserve">
+    <value>SAO TOME AND PRINCIPE</value>
+  </data>
+  <data name="SV" xml:space="preserve">
+    <value>EL SALVADOR</value>
+  </data>
+  <data name="SY" xml:space="preserve">
+    <value>SYRIAN ARAB REPUBLIC</value>
+  </data>
+  <data name="SZ" xml:space="preserve">
+    <value>SWAZILAND</value>
+  </data>
+  <data name="TC" xml:space="preserve">
+    <value>TURKS AND CAICOS ISLANDS</value>
+  </data>
+  <data name="TD" xml:space="preserve">
+    <value>CHAD</value>
+  </data>
+  <data name="TF" xml:space="preserve">
+    <value>FRENCH SOUTHERN TERRITORIES</value>
+  </data>
+  <data name="TG" xml:space="preserve">
+    <value>TOGO</value>
+  </data>
+  <data name="TH" xml:space="preserve">
+    <value>THAILAND</value>
+  </data>
+  <data name="TJ" xml:space="preserve">
+    <value>TAJIKISTAN</value>
+  </data>
+  <data name="TK" xml:space="preserve">
+    <value>TOKELAU</value>
+  </data>
+  <data name="TL" xml:space="preserve">
+    <value>TIMOR-LESTE</value>
+  </data>
+  <data name="TM" xml:space="preserve">
+    <value>TURKMENISTAN</value>
+  </data>
+  <data name="TN" xml:space="preserve">
+    <value>TUNISIA</value>
+  </data>
+  <data name="TO" xml:space="preserve">
+    <value>TONGA</value>
+  </data>
+  <data name="TR" xml:space="preserve">
+    <value>TURKEY</value>
+  </data>
+  <data name="TT" xml:space="preserve">
+    <value>TRINIDAD AND TOBAGO</value>
+  </data>
+  <data name="TV" xml:space="preserve">
+    <value>TUVALU</value>
+  </data>
+  <data name="TW" xml:space="preserve">
+    <value>TAIWAN, PROVINCE OF CHINA</value>
+  </data>
+  <data name="TZ" xml:space="preserve">
+    <value>TANZANIA, UNITED REPUBLIC OF</value>
+  </data>
+  <data name="UA" xml:space="preserve">
+    <value>UKRAINE</value>
+  </data>
+  <data name="ucConsumerRequest.Text" xml:space="preserve">
+    <value>The site has asked for the following information</value>
+  </data>
+  <data name="ucCountry.Text" xml:space="preserve">
+    <value>Country</value>
+  </data>
+  <data name="ucDateOfBirth.Text" xml:space="preserve">
+    <value>Date of Birth</value>
+  </data>
+  <data name="ucEmail.Text" xml:space="preserve">
+    <value>Email</value>
+  </data>
+  <data name="ucFullName.Text" xml:space="preserve">
+    <value>Fullname</value>
+  </data>
+  <data name="ucGender.Text" xml:space="preserve">
+    <value>Gender</value>
+  </data>
+  <data name="ucLanguage.Text" xml:space="preserve">
+    <value>Language</value>
+  </data>
+  <data name="ucNickname.Text" xml:space="preserve">
+    <value>Nickname</value>
+  </data>
+  <data name="ucPostcode.Text" xml:space="preserve">
+    <value>Postcode</value>
+  </data>
+  <data name="ucTimezone.Text" xml:space="preserve">
+    <value>Timezone</value>
+  </data>
+  <data name="UG" xml:space="preserve">
+    <value>UGANDA</value>
+  </data>
+  <data name="UM" xml:space="preserve">
+    <value>UNITED STATES MINOR OUTLYING ISLANDS</value>
+  </data>
+  <data name="US" xml:space="preserve">
+    <value>UNITED STATES</value>
+  </data>
+  <data name="UY" xml:space="preserve">
+    <value>URUGUAY</value>
+  </data>
+  <data name="UZ" xml:space="preserve">
+    <value>UZBEKISTAN</value>
+  </data>
+  <data name="VA" xml:space="preserve">
+    <value>HOLY SEE (VATICAN CITY STATE)</value>
+  </data>
+  <data name="VC" xml:space="preserve">
+    <value>SAINT VINCENT AND THE GRENADINES</value>
+  </data>
+  <data name="VE" xml:space="preserve">
+    <value>VENEZUELA</value>
+  </data>
+  <data name="VG" xml:space="preserve">
+    <value>VIRGIN ISLANDS, BRITISH</value>
+  </data>
+  <data name="VI" xml:space="preserve">
+    <value>VIRGIN ISLANDS, U.S.</value>
+  </data>
+  <data name="VN" xml:space="preserve">
+    <value>VIET NAM</value>
+  </data>
+  <data name="VU" xml:space="preserve">
+    <value>VANUATU</value>
+  </data>
+  <data name="WF" xml:space="preserve">
+    <value>WALLIS AND FUTUNA</value>
+  </data>
+  <data name="WS" xml:space="preserve">
+    <value>SAMOA</value>
+  </data>
+  <data name="y1900" xml:space="preserve">
+    <value>1900</value>
+  </data>
+  <data name="y1901" xml:space="preserve">
+    <value>1901</value>
+  </data>
+  <data name="y1902" xml:space="preserve">
+    <value>1902</value>
+  </data>
+  <data name="y1903" xml:space="preserve">
+    <value>1903</value>
+  </data>
+  <data name="y1904" xml:space="preserve">
+    <value>1904</value>
+  </data>
+  <data name="y1905" xml:space="preserve">
+    <value>1905</value>
+  </data>
+  <data name="y1906" xml:space="preserve">
+    <value>1906</value>
+  </data>
+  <data name="y1907" xml:space="preserve">
+    <value>1907</value>
+  </data>
+  <data name="y1908" xml:space="preserve">
+    <value>1908</value>
+  </data>
+  <data name="y1909" xml:space="preserve">
+    <value>1909</value>
+  </data>
+  <data name="y1910" xml:space="preserve">
+    <value>1910</value>
+  </data>
+  <data name="y1911" xml:space="preserve">
+    <value>1911</value>
+  </data>
+  <data name="y1912" xml:space="preserve">
+    <value>1912</value>
+  </data>
+  <data name="y1913" xml:space="preserve">
+    <value>1913</value>
+  </data>
+  <data name="y1914" xml:space="preserve">
+    <value>1914</value>
+  </data>
+  <data name="y1915" xml:space="preserve">
+    <value>1915</value>
+  </data>
+  <data name="y1916" xml:space="preserve">
+    <value>1916</value>
+  </data>
+  <data name="y1917" xml:space="preserve">
+    <value>1917</value>
+  </data>
+  <data name="y1918" xml:space="preserve">
+    <value>1918</value>
+  </data>
+  <data name="y1919" xml:space="preserve">
+    <value>1919</value>
+  </data>
+  <data name="y1920" xml:space="preserve">
+    <value>1920</value>
+  </data>
+  <data name="y1921" xml:space="preserve">
+    <value>1921</value>
+  </data>
+  <data name="y1922" xml:space="preserve">
+    <value>1922</value>
+  </data>
+  <data name="y1923" xml:space="preserve">
+    <value>1923</value>
+  </data>
+  <data name="y1924" xml:space="preserve">
+    <value>1924</value>
+  </data>
+  <data name="y1925" xml:space="preserve">
+    <value>1925</value>
+  </data>
+  <data name="y1926" xml:space="preserve">
+    <value>1926</value>
+  </data>
+  <data name="y1927" xml:space="preserve">
+    <value>1927</value>
+  </data>
+  <data name="y1928" xml:space="preserve">
+    <value>1928</value>
+  </data>
+  <data name="y1929" xml:space="preserve">
+    <value>1929</value>
+  </data>
+  <data name="y1930" xml:space="preserve">
+    <value>1930</value>
+  </data>
+  <data name="y1931" xml:space="preserve">
+    <value>1931</value>
+  </data>
+  <data name="y1932" xml:space="preserve">
+    <value>1932</value>
+  </data>
+  <data name="y1933" xml:space="preserve">
+    <value>1933</value>
+  </data>
+  <data name="y1934" xml:space="preserve">
+    <value>1934</value>
+  </data>
+  <data name="y1935" xml:space="preserve">
+    <value>1935</value>
+  </data>
+  <data name="y1936" xml:space="preserve">
+    <value>1936</value>
+  </data>
+  <data name="y1937" xml:space="preserve">
+    <value>1937</value>
+  </data>
+  <data name="y1938" xml:space="preserve">
+    <value>1938</value>
+  </data>
+  <data name="y1939" xml:space="preserve">
+    <value>1939</value>
+  </data>
+  <data name="y1940" xml:space="preserve">
+    <value>1940</value>
+  </data>
+  <data name="y1941" xml:space="preserve">
+    <value>1941</value>
+  </data>
+  <data name="y1942" xml:space="preserve">
+    <value>1942</value>
+  </data>
+  <data name="y1943" xml:space="preserve">
+    <value>1943</value>
+  </data>
+  <data name="y1944" xml:space="preserve">
+    <value>1944</value>
+  </data>
+  <data name="y1945" xml:space="preserve">
+    <value>1945</value>
+  </data>
+  <data name="y1946" xml:space="preserve">
+    <value>1946</value>
+  </data>
+  <data name="y1947" xml:space="preserve">
+    <value>1947</value>
+  </data>
+  <data name="y1948" xml:space="preserve">
+    <value>1948</value>
+  </data>
+  <data name="y1949" xml:space="preserve">
+    <value>1949</value>
+  </data>
+  <data name="y1950" xml:space="preserve">
+    <value>1950</value>
+  </data>
+  <data name="y1951" xml:space="preserve">
+    <value>1951</value>
+  </data>
+  <data name="y1952" xml:space="preserve">
+    <value>1952</value>
+  </data>
+  <data name="y1953" xml:space="preserve">
+    <value>1953</value>
+  </data>
+  <data name="y1954" xml:space="preserve">
+    <value>1954</value>
+  </data>
+  <data name="y1955" xml:space="preserve">
+    <value>1955</value>
+  </data>
+  <data name="y1956" xml:space="preserve">
+    <value>1956</value>
+  </data>
+  <data name="y1957" xml:space="preserve">
+    <value>1957</value>
+  </data>
+  <data name="y1958" xml:space="preserve">
+    <value>1958</value>
+  </data>
+  <data name="y1959" xml:space="preserve">
+    <value>1959</value>
+  </data>
+  <data name="y1960" xml:space="preserve">
+    <value>1960</value>
+  </data>
+  <data name="y1961" xml:space="preserve">
+    <value>1961</value>
+  </data>
+  <data name="y1962" xml:space="preserve">
+    <value>1962</value>
+  </data>
+  <data name="y1963" xml:space="preserve">
+    <value>1963</value>
+  </data>
+  <data name="y1964" xml:space="preserve">
+    <value>1964</value>
+  </data>
+  <data name="y1965" xml:space="preserve">
+    <value>1965</value>
+  </data>
+  <data name="y1966" xml:space="preserve">
+    <value>1966</value>
+  </data>
+  <data name="y1967" xml:space="preserve">
+    <value>1967</value>
+  </data>
+  <data name="y1968" xml:space="preserve">
+    <value>1968</value>
+  </data>
+  <data name="y1969" xml:space="preserve">
+    <value>1969</value>
+  </data>
+  <data name="y1970" xml:space="preserve">
+    <value>1970</value>
+  </data>
+  <data name="y1971" xml:space="preserve">
+    <value>1971</value>
+  </data>
+  <data name="y1972" xml:space="preserve">
+    <value>1972</value>
+  </data>
+  <data name="y1973" xml:space="preserve">
+    <value>1973</value>
+  </data>
+  <data name="y1974" xml:space="preserve">
+    <value>1974</value>
+  </data>
+  <data name="y1975" xml:space="preserve">
+    <value>1975</value>
+  </data>
+  <data name="y1976" xml:space="preserve">
+    <value>1976</value>
+  </data>
+  <data name="y1977" xml:space="preserve">
+    <value>1977</value>
+  </data>
+  <data name="y1978" xml:space="preserve">
+    <value>1978</value>
+  </data>
+  <data name="y1979" xml:space="preserve">
+    <value>1979</value>
+  </data>
+  <data name="y1980" xml:space="preserve">
+    <value>1980</value>
+  </data>
+  <data name="y1981" xml:space="preserve">
+    <value>1981</value>
+  </data>
+  <data name="y1982" xml:space="preserve">
+    <value>1982</value>
+  </data>
+  <data name="y1983" xml:space="preserve">
+    <value>1983</value>
+  </data>
+  <data name="y1984" xml:space="preserve">
+    <value>1984</value>
+  </data>
+  <data name="y1985" xml:space="preserve">
+    <value>1985</value>
+  </data>
+  <data name="y1986" xml:space="preserve">
+    <value>1986</value>
+  </data>
+  <data name="y1987" xml:space="preserve">
+    <value>1987</value>
+  </data>
+  <data name="y1988" xml:space="preserve">
+    <value>1988</value>
+  </data>
+  <data name="y1989" xml:space="preserve">
+    <value>1989</value>
+  </data>
+  <data name="y1990" xml:space="preserve">
+    <value>1990</value>
+  </data>
+  <data name="y1991" xml:space="preserve">
+    <value>1991</value>
+  </data>
+  <data name="y1992" xml:space="preserve">
+    <value>1992</value>
+  </data>
+  <data name="y1993" xml:space="preserve">
+    <value>1993</value>
+  </data>
+  <data name="y1994" xml:space="preserve">
+    <value>1994</value>
+  </data>
+  <data name="y1995" xml:space="preserve">
+    <value>1995</value>
+  </data>
+  <data name="y1996" xml:space="preserve">
+    <value>1996</value>
+  </data>
+  <data name="y1997" xml:space="preserve">
+    <value>1997</value>
+  </data>
+  <data name="y1998" xml:space="preserve">
+    <value>1998</value>
+  </data>
+  <data name="y1999" xml:space="preserve">
+    <value>1999</value>
+  </data>
+  <data name="y2000" xml:space="preserve">
+    <value>2000</value>
+  </data>
+  <data name="y2001" xml:space="preserve">
+    <value>2001</value>
+  </data>
+  <data name="y2002" xml:space="preserve">
+    <value>2002</value>
+  </data>
+  <data name="y2003" xml:space="preserve">
+    <value>2003</value>
+  </data>
+  <data name="y2004" xml:space="preserve">
+    <value>2004</value>
+  </data>
+  <data name="y2005" xml:space="preserve">
+    <value>2005</value>
+  </data>
+  <data name="y2006" xml:space="preserve">
+    <value>2006</value>
+  </data>
+  <data name="y2007" xml:space="preserve">
+    <value>2007</value>
+  </data>
+  <data name="y2008" xml:space="preserve">
+    <value>2008</value>
+  </data>
+  <data name="y2009" xml:space="preserve">
+    <value>2009</value>
+  </data>
+  <data name="YE" xml:space="preserve">
+    <value>YEMEN</value>
+  </data>
+  <data name="YT" xml:space="preserve">
+    <value>MAYOTTE</value>
+  </data>
+  <data name="ZA" xml:space="preserve">
+    <value>SOUTH AFRICA</value>
+  </data>
+  <data name="ZM" xml:space="preserve">
+    <value>ZAMBIA</value>
+  </data>
+  <data name="ZW" xml:space="preserve">
+    <value>ZIMBABWE</value>
+  </data>
+</root>

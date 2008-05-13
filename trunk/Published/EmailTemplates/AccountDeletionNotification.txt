@@ -1,0 +1,3 @@
+﻿<%UserName%> at <%UserEmail%> has left the building.
+
+<%Reason%>
