@@ -1,5 +1,0 @@
-﻿Hello <%UserName%>! Sorry to see you leaving us.
-
-Please come back at any time!
-
-Thanks!
