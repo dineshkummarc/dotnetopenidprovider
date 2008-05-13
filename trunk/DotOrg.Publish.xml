@@ -1,36 +1,94 @@
 <publishData>
+  <publishTarget publishUrl="C:\dev\OpenID2\DotOrgShared\Published\">
+    <file relUrl="EmailTemplates/ResetPassword.txt" publishTime="05/13/2008 12:47:31" />
+    <file relUrl="App_LocalResources/Default.aspx.es.resx" publishTime="05/13/2008 12:47:15" />
+    <file relUrl="ProfileFields.ascx" publishTime="05/13/2008 12:47:31" />
+    <file relUrl="MasterPage.Master" publishTime="05/13/2008 12:47:32" />
+    <file relUrl="App_LocalResources/Default.aspx.resx" publishTime="05/13/2008 12:47:15" />
+    <file relUrl="core.css" publishTime="05/13/2008 12:47:31" />
+    <file relUrl="UserMasterPage.Master" publishTime="05/13/2008 12:47:31" />
+    <file relUrl="register.aspx" publishTime="05/13/2008 12:47:32" />
+    <file relUrl="login.aspx" publishTime="05/13/2008 12:47:32" />
+    <file relUrl="EmailTemplates/CreateUserWizard.txt" publishTime="05/13/2008 12:47:31" />
+    <file relUrl="help.txt" publishTime="05/13/2008 12:47:32" />
+    <file relUrl="EmailTemplates/ResetPassword.en.txt" publishTime="05/13/2008 12:47:31" />
+    <file relUrl="DefaultMasterPage.Master" publishTime="05/13/2008 12:47:32" />
+    <file relUrl="App_LocalResources/verification.aspx.resx" publishTime="05/13/2008 12:47:15" />
+    <file relUrl="contact.aspx" publishTime="05/13/2008 12:47:32" />
+    <file relUrl="BaseMaster.Master" publishTime="05/13/2008 12:47:31" />
+    <file relUrl="changePassword.aspx" publishTime="05/13/2008 12:47:32" />
+    <file relUrl="bin/DotOrg.pdb" publishTime="05/13/2008 12:58:03" />
+    <file relUrl="App_LocalResources/changePassword.aspx.resx" publishTime="05/13/2008 12:47:15" />
+    <file relUrl="App_LocalResources/contact.aspx.resx" publishTime="05/13/2008 12:47:15" />
+    <file relUrl="user_xrds.aspx" publishTime="05/13/2008 12:47:32" />
+    <file relUrl="App_LocalResources/UnRegister.aspx.resx" publishTime="05/13/2008 12:47:15" />
+    <file relUrl="terms.aspx" publishTime="05/13/2008 12:47:31" />
+    <file relUrl="bin/DotOrg.dll" publishTime="05/13/2008 12:58:03" />
+    <file relUrl="bin/DotNetOpenId.pdb" publishTime="05/13/2008 12:47:30" />
+    <file relUrl="README.txt" publishTime="05/13/2008 12:47:32" />
+    <file relUrl="App_LocalResources/changeEmail.aspx.resx" publishTime="05/13/2008 12:47:15" />
+    <file relUrl="App_LocalResources/server.aspx.resx" publishTime="05/13/2008 12:47:15" />
+    <file relUrl="logo.png" publishTime="05/13/2008 12:47:32" />
+    <file relUrl="changeSecretQuestion.aspx" publishTime="05/13/2008 12:47:32" />
+    <file relUrl="App_LocalResources/terms.aspx.resx" publishTime="05/13/2008 12:47:15" />
+    <file relUrl="App_LocalResources/User.aspx.resx" publishTime="05/13/2008 12:47:15" />
+    <file relUrl="changeEmail.aspx" publishTime="05/13/2008 12:47:32" />
+    <file relUrl="App_LocalResources/ResetPassword.aspx.resx" publishTime="05/13/2008 12:47:15" />
+    <file relUrl="App_LocalResources/Register.aspx.resx" publishTime="05/13/2008 12:47:15" />
+    <file relUrl="EmailTemplates/CreateUserWizard.en.txt" publishTime="05/13/2008 12:47:31" />
+    <file relUrl="App_LocalResources/login.aspx.resx" publishTime="05/13/2008 12:47:15" />
+    <file relUrl="App_LocalResources/changeSecretQuestion.aspx.resx" publishTime="05/13/2008 12:47:15" />
+    <file relUrl="EmailTemplates/AccountDeletionNotification.txt" publishTime="05/13/2008 12:47:31" />
+    <file relUrl="App_LocalResources/stats.ascx.resx" publishTime="05/13/2008 12:47:15" />
+    <file relUrl="App_LocalResources/BaseMaster.master.resx" publishTime="05/13/2008 12:47:15" />
+    <file relUrl="bin/DotNetOpenId.dll" publishTime="05/13/2008 12:47:30" />
+    <file relUrl="resetPassword.aspx" publishTime="05/13/2008 12:47:32" />
+    <file relUrl="App_LocalResources/ProfileFields.ascx.resx" publishTime="05/13/2008 12:47:15" />
+    <file relUrl="UnRegister.aspx" publishTime="05/13/2008 12:47:32" />
+    <file relUrl="decide.aspx" publishTime="05/13/2008 12:47:31" />
+    <file relUrl="EmailTemplates/AccountDeletionConfirmation.txt" publishTime="05/13/2008 12:47:31" />
+    <file relUrl="server.aspx" publishTime="05/13/2008 12:47:32" />
+    <file relUrl="stats.ascx" publishTime="05/13/2008 12:47:32" />
+    <file relUrl="App_LocalResources/decide.aspx.resx" publishTime="05/13/2008 12:47:15" />
+    <file relUrl="op_xrds.aspx" publishTime="05/13/2008 12:47:31" />
+    <file relUrl="Global.asax" publishTime="05/13/2008 12:47:32" />
+    <file relUrl="verification.aspx" publishTime="05/13/2008 12:47:32" />
+    <file relUrl="default.aspx" publishTime="05/13/2008 12:47:32" />
+    <file relUrl="user.aspx" publishTime="05/13/2008 12:47:32" />
+  </publishTarget>
   <publishTarget publishUrl="C:\dev\OpenID2\web\">
     <file relUrl="EmailTemplates/ResetPassword.txt" publishTime="04/28/2008 12:15:56" />
+    <file relUrl="default.aspx" publishTime="05/13/2008 11:47:56" />
     <file relUrl="App_LocalResources/Default.aspx.es.resx" publishTime="04/25/2008 08:37:46" />
     <file relUrl="ProfileFields.ascx" publishTime="05/05/2008 17:03:42" />
+    <file relUrl="stats.ascx" publishTime="05/12/2008 20:45:30" />
     <file relUrl="MasterPage.Master" publishTime="04/30/2008 12:37:38" />
     <file relUrl="App_LocalResources/Default.aspx.resx" publishTime="05/13/2008 11:48:49" />
     <file relUrl="logo.png" publishTime="04/25/2008 13:14:28" />
     <file relUrl="UserMasterPage.Master" publishTime="05/10/2008 17:28:23" />
     <file relUrl="register.aspx" publishTime="05/06/2008 17:20:22" />
     <file relUrl="EmailTemplates/CreateUserWizard.txt" publishTime="04/23/2008 18:31:06" />
-    <file relUrl="help.txt" publishTime="05/12/2008 20:59:48" />
+    <file relUrl="App_LocalResources/Register.aspx.resx" publishTime="05/10/2008 17:36:35" />
     <file relUrl="EmailTemplates/ResetPassword.en.txt" publishTime="04/28/2008 12:22:18" />
     <file relUrl="DefaultMasterPage.Master" publishTime="04/30/2008 12:40:22" />
     <file relUrl="bin/DotNetOpenId.xml" publishTime="04/28/2008 11:14:38" />
-    <file relUrl="resetPassword.aspx" publishTime="05/07/2008 19:57:38" />
-    <file relUrl="core.css" publishTime="04/22/2008 14:39:23" />
-    <file relUrl="op_xrds.aspx" publishTime="04/29/2008 10:36:39" />
     <file relUrl="UnRegister.aspx" publishTime="05/06/2008 17:20:07" />
+    <file relUrl="bin/DotNetOpenId.dll" publishTime="04/28/2008 11:14:38" />
+    <file relUrl="verification.aspx" publishTime="05/06/2008 17:20:08" />
     <file relUrl="contact.aspx" publishTime="05/06/2008 17:20:06" />
     <file relUrl="App_LocalResources/verification.aspx.resx" publishTime="05/10/2008 17:36:37" />
     <file relUrl="changePassword.aspx" publishTime="04/28/2008 12:48:57" />
-    <file relUrl="bin/DotOrg.pdb" publishTime="05/13/2008 11:49:45" />
+    <file relUrl="App_LocalResources/changePassword.aspx.resx" publishTime="05/10/2008 17:36:34" />
     <file relUrl="App_LocalResources/contact.aspx.resx" publishTime="05/10/2008 17:36:34" />
     <file relUrl="resetPasswordMigration.aspx" publishTime="05/08/2008 10:59:01" />
     <file relUrl="App_LocalResources/UnRegister.aspx.resx" publishTime="04/29/2008 08:01:57" />
     <file relUrl="terms.aspx" publishTime="04/25/2008 13:19:51" />
+    <file relUrl="bin/DotOrg.dll" publishTime="05/13/2008 11:49:45" />
     <file relUrl="bin/DotNetOpenId.pdb" publishTime="04/28/2008 11:14:38" />
     <file relUrl="README.txt" publishTime="05/13/2008 09:16:44" />
     <file relUrl="App_LocalResources/changeEmail.aspx.resx" publishTime="05/10/2008 17:36:34" />
     <file relUrl="App_LocalResources/server.aspx.resx" publishTime="05/06/2008 14:52:33" />
     <file relUrl="changeSecretQuestion.aspx" publishTime="05/06/2008 17:20:06" />
-    <file relUrl="Global.asax" publishTime="04/24/2008 17:21:37" />
     <file relUrl="App_LocalResources/terms.aspx.resx" publishTime="05/10/2008 17:41:29" />
     <file relUrl="App_LocalResources/User.aspx.resx" publishTime="05/10/2008 17:36:36" />
     <file relUrl="login.aspx" publishTime="05/06/2008 17:20:06" />
@@ -40,23 +98,22 @@
     <file relUrl="BaseMaster.Master" publishTime="05/12/2008 21:11:58" />
     <file relUrl="App_LocalResources/changeSecretQuestion.aspx.resx" publishTime="05/10/2008 17:36:34" />
     <file relUrl="changeEmail.aspx" publishTime="05/06/2008 17:20:05" />
-    <file relUrl="EmailTemplates/AccountDeletionNotification.txt" publishTime="04/25/2008 11:39:27" />
     <file relUrl="App_LocalResources/stats.ascx.resx" publishTime="05/12/2008 21:22:09" />
-    <file relUrl="bin/DotNetOpenId.dll" publishTime="04/28/2008 11:14:38" />
+    <file relUrl="bin/DotOrg.pdb" publishTime="05/13/2008 11:49:45" />
     <file relUrl="user_xrds.aspx" publishTime="04/29/2008 10:48:36" />
-    <file relUrl="App_LocalResources/decide.aspx.resx" publishTime="05/10/2008 17:36:35" />
     <file relUrl="App_LocalResources/ProfileFields.ascx.resx" publishTime="05/05/2008 21:01:41" />
-    <file relUrl="App_LocalResources/Register.aspx.resx" publishTime="05/10/2008 17:36:35" />
-    <file relUrl="decide.aspx" publishTime="05/06/2008 17:20:06" />
+    <file relUrl="help.txt" publishTime="05/12/2008 20:59:48" />
+    <file relUrl="App_LocalResources/BaseMaster.master.resx" publishTime="05/12/2008 18:50:09" />
     <file relUrl="EmailTemplates/AccountDeletionConfirmation.txt" publishTime="04/25/2008 10:51:23" />
     <file relUrl="server.aspx" publishTime="05/06/2008 17:20:07" />
-    <file relUrl="stats.ascx" publishTime="05/12/2008 20:45:30" />
-    <file relUrl="bin/DotOrg.dll" publishTime="05/13/2008 11:49:45" />
-    <file relUrl="App_LocalResources/changePassword.aspx.resx" publishTime="05/10/2008 17:36:34" />
-    <file relUrl="App_LocalResources/BaseMaster.master.resx" publishTime="05/12/2008 18:50:09" />
-    <file relUrl="App_LocalResources/resetPasswordMigration.aspx.resx" publishTime="05/10/2008 17:36:36" />
-    <file relUrl="verification.aspx" publishTime="05/06/2008 17:20:08" />
-    <file relUrl="default.aspx" publishTime="05/13/2008 11:47:56" />
     <file relUrl="user.aspx" publishTime="05/06/2008 17:20:08" />
+    <file relUrl="decide.aspx" publishTime="05/06/2008 17:20:06" />
+    <file relUrl="App_LocalResources/decide.aspx.resx" publishTime="05/10/2008 17:36:35" />
+    <file relUrl="op_xrds.aspx" publishTime="04/29/2008 10:36:39" />
+    <file relUrl="Global.asax" publishTime="04/24/2008 17:21:37" />
+    <file relUrl="App_LocalResources/resetPasswordMigration.aspx.resx" publishTime="05/10/2008 17:36:36" />
+    <file relUrl="resetPassword.aspx" publishTime="05/07/2008 19:57:38" />
+    <file relUrl="EmailTemplates/AccountDeletionNotification.txt" publishTime="04/25/2008 11:39:27" />
+    <file relUrl="core.css" publishTime="04/22/2008 14:39:23" />
   </publishTarget>
 </publishData>
